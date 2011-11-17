@@ -32,7 +32,7 @@ class TestCarmen < Test::Unit::TestCase
     assert_nil Carmen.country_name('')
     assert_nil Carmen.country_name(nil)
   end
-  
+
   def test_localized_country_name
     assert_equal 'Germany', Carmen.country_name('DE')
     assert_equal 'Deutschland', Carmen.country_name('DE', :locale => :de)
@@ -54,12 +54,12 @@ class TestCarmen < Test::Unit::TestCase
 
   def test_country_codes
     assert_equal 'AF', Carmen.country_codes.first
-    assert_equal 245, Carmen.country_codes.length
+    assert_equal 253, Carmen.country_codes.length
   end
 
   def test_country_names
     assert_equal 'Afghanistan', Carmen.country_names.first
-    assert_equal 245, Carmen.country_names.length
+    assert_equal 253, Carmen.country_names.length
   end
 
   def test_state_name
@@ -129,7 +129,7 @@ class TestCarmen < Test::Unit::TestCase
 
   def test_prepended_countries
     us_original_index = Carmen.countries.index(['United States', 'US'])
-    Carmen.prepended_countries = %w(US CA AU)
+    Carmen.priority_countries = %w(US CA AU)
     countries = Carmen.countries
     assert_equal 0, countries.index(['United States', 'US'])
     assert_equal 1, countries.index(['Canada', 'CA'])
@@ -137,7 +137,7 @@ class TestCarmen < Test::Unit::TestCase
 
     assert_equal 3 + us_original_index, countries.rindex(['United States', 'US'])
 
-    Carmen.prepended_countries = []
+    Carmen.priority_countries = []
   end
 
   def test_invalid_country_exception
@@ -156,5 +156,10 @@ class TestCarmen < Test::Unit::TestCase
     assert_raises Carmen::UnavailableLocale do
       Carmen.countries(:locale => :latin)
     end
+  end
+
+  def test_special_characters_dont_rails_an_exception
+    assert_equal(nil, Carmen::state_code('alabama\\'))
+    assert_nil(Carmen::country_code('???'))
   end
 end

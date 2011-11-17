@@ -25,6 +25,8 @@
   - AM
 - - Aruba
   - AW
+- - Ascension Island
+  - AC
 - - Australia
   - AU
 - - Austria
@@ -53,6 +55,8 @@
   - BT
 - - Bolivia
   - BO
+- - Bonaire, Sint Eustatius and Saba
+  - BQ
 - - Bosnia and Herzegovina
   - BA
 - - Botswana
@@ -105,12 +109,14 @@
   - CK
 - - Costa Rica
   - CR
-- - Cote D'ivoire
+- - Côte d'Ivoire
   - CI
 - - Croatia
   - HR
 - - Cuba
   - CU
+- - Curaçao
+  - CW
 - - Cyprus
   - CY
 - - Czech Republic
@@ -249,7 +255,7 @@
   - LS
 - - Liberia
   - LR
-- - Libyan Arab Jamahiriya
+- - Libya
   - LY
 - - Liechtenstein
   - LI
@@ -259,7 +265,7 @@
   - LU
 - - Macao
   - MO
-- - Macedonia, the Former Yugoslav Republic of
+- - Macedonia, Republic of
   - MK
 - - Madagascar
   - MG
@@ -367,12 +373,16 @@
   - RU
 - - Rwanda
   - RW
+- - Saint Barthelemy
+  - BL
 - - Saint Helena
   - SH
 - - Saint Kitts and Nevis
   - KN
 - - Saint Lucia
   - LC
+- - Saint Martin (French Part)
+  - MF
 - - Saint Pierre and Miquelon
   - PM
 - - Saint Vincent and the Grenadines
@@ -395,6 +405,8 @@
   - SL
 - - Singapore
   - SG
+- - Sint Maarten (Dutch part)
+  - SX
 - - Slovakia
   - SK
 - - Slovenia
@@ -407,6 +419,8 @@
   - ZA
 - - South Georgia and the South Sandwich Islands
   - GS
+- - South Sudan, Republic of
+  - SS
 - - Spain
   - ES
 - - Sri Lanka
@@ -425,7 +439,7 @@
   - CH
 - - Syrian Arab Republic
   - SY
-- - Taiwan, Province of China
+- - Taiwan
   - TW
 - - Tajikistan
   - TJ
@@ -443,6 +457,8 @@
   - TO
 - - Trinidad and Tobago
   - TT
+- - Tristan da Cunha
+  - TA
 - - Tunisia
   - TN
 - - Turkey
@@ -489,3 +505,4 @@
   - ZM
 - - Zimbabwe
   - ZW
+

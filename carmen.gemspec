@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Jim Benton"]
-  s.date = %q{2011-05-19}
+  s.date = %q{2011-06-01}
   s.description = %q{A collection of geographic country and state names for Ruby. Also includes replacements for Rails' country_select and state_select plugins}
   s.email = %q{jim@autonomousmachine.com}
   s.extra_rdoc_files = [
@@ -22,9 +22,17 @@ Gem::Specification.new do |s|
     "Rakefile",
     "VERSION",
     "carmen.gemspec",
+    "data/countries/cn.yml",
+    "data/countries/cs.yml",
     "data/countries/de.yml",
     "data/countries/en.yml",
+    "data/countries/es.yml",
+    "data/countries/hi.yml",
+    "data/countries/it.yml",
+    "data/countries/jp.yml",
     "data/countries/nl.yml",
+    "data/countries/pl.yml",
+    "data/countries/sk.yml",
     "data/states/au.yml",
     "data/states/br.yml",
     "data/states/ca.yml",
@@ -49,25 +57,25 @@ Gem::Specification.new do |s|
   ]
   s.homepage = %q{http://github.com/jim/carmen}
   s.require_paths = ["lib"]
-  s.rubygems_version = %q{1.6.1}
+  s.rubygems_version = %q{1.6.2}
   s.summary = %q{A collection of geographic country and state names for Ruby}
 
   if s.respond_to? :specification_version then
     s.specification_version = 3
 
     if Gem::Version.new(Gem::VERSION) >= Gem::Version.new('1.2.0') then
-      s.add_development_dependency(%q<jeweler>, ["= 1.6"])
+      s.add_development_dependency(%q<jeweler>, ["= 1.6.2"])
       s.add_development_dependency(%q<mocha>, [">= 0"])
       s.add_development_dependency(%q<rails>, [">= 0"])
       s.add_development_dependency(%q<hanna>, [">= 0"])
     else
-      s.add_dependency(%q<jeweler>, ["= 1.6"])
+      s.add_dependency(%q<jeweler>, ["= 1.6.2"])
       s.add_dependency(%q<mocha>, [">= 0"])
       s.add_dependency(%q<rails>, [">= 0"])
       s.add_dependency(%q<hanna>, [">= 0"])
     end
   else
-    s.add_dependency(%q<jeweler>, ["= 1.6"])
+    s.add_dependency(%q<jeweler>, ["= 1.6.2"])
     s.add_dependency(%q<mocha>, [">= 0"])
     s.add_dependency(%q<rails>, [">= 0"])
     s.add_dependency(%q<hanna>, [">= 0"])

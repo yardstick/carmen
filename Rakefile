@@ -11,8 +11,9 @@ begin
     gem.email = "jim@autonomousmachine.com"
     gem.homepage = "http://github.com/jim/carmen"
     gem.authors = ["Jim Benton"]
+
   end
-  Jeweler::GemcutterTasks.new
+  Jeweler::RubygemsDotOrgTasks.new
 rescue LoadError
   puts "Jeweler (or a dependency) not available. Install it with: gem install jeweler"
 end
@@ -36,8 +37,6 @@ rescue LoadError
     abort "RCov is not available. In order to run rcov, you must: gem install spicycode-rcov"
   end
 end
-
-task :test => :check_dependencies
 
 task :default => :test
 
