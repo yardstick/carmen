@@ -1,39 +1,39 @@
----
-- - Akershus
-  - AK
-- - Aust-Agder
-  - AA
-- - Buskerud
-  - BU
-- - Finnmark
-  - FI
-- - Hedmark
-  - HE
-- - Hordaland
-  - HO
-- - Møre og Romsdal
-  - MR
-- - Nord-Trøndelag
-  - NT
-- - Nordland
-  - 'NO'
-- - Oppland
-  - OP
+--- 
+- - Ostfold County
+  - "01"
+- - Akershus County
+  - "02"
 - - Oslo
-  - OS
-- - Rogaland
-  - RO
-- - Sogn og Fjordane
-  - SF
-- - Sør-Trøndelag
-  - ST
-- - Telemark
-  - TE
-- - Troms
-  - TR
-- - Vest-Agder
-  - VA
-- - Vestfold
-  - VF
-- - Østfold
-  - ØF
+  - "03"
+- - Hedmark County
+  - "04"
+- - Oppland County
+  - "05"
+- - Buskerud County
+  - "06"
+- - Vestfold County
+  - "07"
+- - Telemark County
+  - "08"
+- - Aust-Agder County
+  - "09"
+- - Vest-Agder County
+  - "10"
+- - Rogaland County
+  - "11"
+- - Hordaland County
+  - "12"
+- - Sogn og Fjordane C.
+  - "14"
+- - More og Romsdal C.
+  - "15"
+- - Sor-Trondelag County
+  - "16"
+- - Nord-Trondelag Cnty
+  - "17"
+- - Nordland County
+  - "18"
+- - Troms County
+  - "19"
+- - Finnmark County
+  - "20"

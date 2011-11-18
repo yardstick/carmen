@@ -1,39 +1,101 @@
----
-- - Andalucía
-  - AND
-- - Aragón
-  - ARA  
-- - Canarias
-  - CAN  
-- - Cantabria
-  - CAN  
-- - Castilla-La Mancha
-  - CLM  
-- - Castilla y León
-  - CyL
-- - Cataluña
-  - CAT  
-- - Ceuta
-  - CEU
-- - Comunidad de Madrid
-  - MAD
-- - Comunidad Valenciana
-  - CVA
-- - Extremadura
-  - EXT  
-- - Galicia
-  - GAL
-- - Islas Baleares
-  - IB  
+--- 
+- - Alava
+  - "01"
+- - Albacete
+  - "02"
+- - Alicante
+  - "03"
+- - Almeria
+  - "04"
+- - Avila
+  - "05"
+- - Badajoz
+  - "06"
+- - Baleares
+  - "07"
+- - Barcelona
+  - "08"
+- - Burgos
+  - "09"
+- - Caceres
+  - "10"
+- - Cadiz
+  - "11"
+- - Castellon
+  - "12"
+- - Ciudad Real
+  - "13"
+- - Cordoba
+  - "14"
+- - La Coruna
+  - "15"
+- - Cuenca
+  - "16"
+- - Gerona
+  - "17"
+- - Granada
+  - "18"
+- - Guadalajara
+  - "19"
+- - Guipuzcoa
+  - "20"
+- - Huelva
+  - "21"
+- - Huesca
+  - "22"
+- - Jaen
+  - "23"
+- - Leon
+  - "24"
+- - Lerida
+  - "25"
 - - La Rioja
-  - LRJ 
-- - Melilla
-  - MEL   
+  - "26"
+- - Lugo
+  - "27"
+- - Madrid
+  - "28"
+- - Malaga
+  - "29"
+- - Murcia
+  - "30"
 - - Navarra
-  - NAV  
-- - País Vasco
-  - PV
-- - Principado de Asturias
-  - AST
-- - Región de Murcia
-  - RMU
+  - "31"
+- - Orense
+  - "32"
+- - Asturias
+  - "33"
+- - Palencia
+  - "34"
+- - Las Palmas
+  - "35"
+- - Pontevedra
+  - "36"
+- - Salamanca
+  - "37"
+- - Sta. Cruz Tenerife
+  - "38"
+- - Cantabria
+  - "39"
+- - Segovia
+  - "40"
+- - Sevilla
+  - "41"
+- - Soria
+  - "42"
+- - Tarragona
+  - "43"
+- - Teruel
+  - "44"
+- - Toledo
+  - "45"
+- - Valencia
+  - "46"
+- - Valladolid
+  - "47"
+- - Vizcaya
+  - "48"
+- - Zamora
+  - "49"
+- - Zaragoza
+  - "50"

@@ -1,73 +1,79 @@
-# from http://en.wikipedia.org/wiki/ISO_3166-2:IN
----
-- - Andhra Pradesh
-  - AP
+--- 
+- - Andra Pradesh
+  - "01"
 - - Arunachal Pradesh
-  - AR
+  - "02"
 - - Assam
-  - AS
+  - "03"
 - - Bihar
-  - BR
-- - Chhattisgarh
-  - CT
+  - "04"
 - - Goa
-  - GA
+  - "05"
 - - Gujarat
-  - GJ
+  - "06"
 - - Haryana
-  - HR
+  - "07"
 - - Himachal Pradesh
-  - HP
-- - Jammu and Kashmir
-  - JK
-- - Jharkhand
-  - JH
+  - "08"
+- - Jammu und Kashmir
+  - "09"
 - - Karnataka
-  - KA
+  - "10"
 - - Kerala
-  - KL
+  - "11"
 - - Madhya Pradesh
-  - MP
+  - "12"
 - - Maharashtra
-  - MH
+  - "13"
 - - Manipur
-  - MN
-- - Meghalaya
-  - ML
+  - "14"
+- - Megalaya
+  - "15"
 - - Mizoram
-  - MZ
+  - "16"
 - - Nagaland
-  - NL
+  - "17"
 - - Orissa
-  - OR
+  - "18"
 - - Punjab
-  - PB
+  - "19"
 - - Rajasthan
-  - RJ
+  - "20"
 - - Sikkim
-  - SK
+  - "21"
 - - Tamil Nadu
-  - TN
+  - "22"
 - - Tripura
-  - TR
-- - Uttarakhand
-  - UL
+  - "23"
 - - Uttar Pradesh
-  - UP
+  - "24"
 - - West Bengal
-  - WB
-- - Andaman and Nicobar Islands
-  - AN
+  - "25"
+- - Andaman und Nico.In.
+  - "26"
 - - Chandigarh
-  - CH
-- - Dadra and Nagar Haveli
-  - DN
-- - Daman and Diu
-  - DD
+  - "27"
+- - Dadra und Nagar Hav.
+  - "28"
+- - Daman und Diu
+  - "29"
 - - Delhi
-  - DL
+  - "30"
 - - Lakshadweep
-  - LD
-- - Puducherry
-  - PY
-
+  - "31"
+- - Pondicherry
+  - "32"
+- - Chhaattisgarh
+  - "33"
+- - Jharkhand
+  - "34"
+- - Uttaranchal
+  - "35"
+- - ""
+  - A1
+- - ""
+  - A2
+- - ""
+  - A3
+- - ""
+  - A4

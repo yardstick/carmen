@@ -1,55 +1,55 @@
----
+--- 
 - - Acre
   - AC
 - - Alagoas
   - AL
-- - Amapá
-  - AP
-- - Amazonas
+- - Amazon
   - AM
-- - Bahía
+- - Amapa
+  - AP
+- - Bahia
   - BA
-- - Ceará
+- - Ceara
   - CE
-- - Distrito Federal
+- - Brasilia
   - DF
 - - Espirito Santo
   - ES
-- - Goiás
+- - Goias
   - GO
-- - Maranhão
+- - Maranhao
   - MA
-- - Mato Grosso
-  - MT
-- - Mato Grosso do Sul
-  - MS
 - - Minas Gerais
   - MG
-- - Paraná
-  - PR
-- - Paraíba
-  - PB
-- - Pará
+- - Mato Grosso do Sul
+  - MS
+- - Mato Grosso
+  - MT
+- - Para
   - PA
+- - Paraiba
+  - PB
 - - Pernambuco
   - PE
-- - Piauí
+- - Piaui
   - PI
-- - Rio Grande do Norte
-  - RN
-- - Rio Grande do Sul
-  - RS
+- - Parana
+  - PR
 - - Rio de Janeiro
   - RJ
-- - Rondônia
+- - Rio Grande do Norte
+  - RN
+- - Rondonia
   - RO
 - - Roraima
   - RR
+- - Rio Grande do Sul
+  - RS
 - - Santa Catarina
   - SC
 - - Sergipe
   - SE
-- - São Paulo
+- - Sao Paulo
   - SP
 - - Tocantins
   - TO

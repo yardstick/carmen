@@ -1,4 +1,4 @@
----
+--- 
 - - Alberta
   - AB
 - - British Columbia
@@ -7,14 +7,14 @@
   - MB
 - - New Brunswick
   - NB
-- - Newfoundland and Labrador
-  - NL
-- - Northwest Territories
-  - NT
+- - Newfoundland & Labr.
+  - NF
 - - Nova Scotia
   - NS
 - - Nunavut
   - NU
+- - Northwest Terr.
+  - NW
 - - Ontario
   - "ON"
 - - Prince Edward Island
@@ -23,5 +23,5 @@
   - QC
 - - Saskatchewan
   - SK
-- - Yukon
-  - YT
+- - Yukon Territory
+  - YK

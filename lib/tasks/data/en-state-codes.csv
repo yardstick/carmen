@@ -1,0 +1,1729 @@
+Cty,Rg ,Description         
+AD ,NA ,Not Available       
+AE ,EE ,REGION UAE          
+AF ,NA ,Not Available       
+AG ,NA ,Not Available       
+AI ,NA ,Not Available       
+AL ,NA ,Not Available       
+AM ,NA ,Not Available       
+AN ,NA ,Not Available       
+AO ,NA ,Not Available       
+AQ ,NA ,Not Available       
+AR ,00 ,Capital Federal     
+AR ,01 ,Buenos Aires        
+AR ,02 ,Catamarca           
+AR ,03 ,Cordoba             
+AR ,04 ,Corrientes          
+AR ,05 ,Entre Rios          
+AR ,06 ,Jujuy               
+AR ,07 ,Mendoza             
+AR ,08 ,La Rioja            
+AR ,09 ,Salta               
+AR ,10 ,San Juan            
+AR ,11 ,San Luis            
+AR ,12 ,Santa Fe            
+AR ,13 ,Santiago del Estero 
+AR ,14 ,Tucuman             
+AR ,16 ,Chaco               
+AR ,17 ,Chubut              
+AR ,18 ,Formosa             
+AR ,19 ,Misiones            
+AR ,20 ,Neuquen             
+AR ,21 ,La Pampa            
+AR ,22 ,Rio Negro           
+AR ,23 ,Santa Cruz          
+AR ,24 ,Tierra de Fuego     
+AS ,NA ,Not Available       
+AT ,B  ,Burgenland          
+AT ,K  ,Carinthia           
+AT ,NOE,Lower Austria       
+AT ,OOE,Upper Austria       
+AT ,S  ,Salzburg            
+AT ,ST ,Styria              
+AT ,T  ,Tyrol               
+AT ,V  ,Vorarlberg          
+AT ,W  ,Vienna              
+AU ,ACT,Aust Capital Terr   
+AU ,NSW,New South Wales     
+AU ,NT ,Northern Territory  
+AU ,QLD,Queensland          
+AU ,SA ,South Australia     
+AU ,TAS,Tasmania            
+AU ,VIC,Victoria            
+AU ,WA ,Western Australia   
+AW ,NA ,Not Available       
+AX ,NA ,Not Available       
+AZ ,NA ,Not Available       
+BA ,NA ,Not Available       
+BB ,NA ,Not Available       
+BD ,NA ,Not Available       
+BE ,01 ,Antwerp             
+BE ,02 ,Brabant (Flemish)   
+BE ,03 ,Hainaut             
+BE ,04 ,Liege               
+BE ,05 ,Limburg             
+BE ,06 ,Luxembourg          
+BE ,07 ,Namur               
+BE ,08 ,Oost-Vlaanderen     
+BE ,09 ,West-Vlaanderen     
+BE ,10 ,Brabant (Walloon)   
+BE ,11 ,Brussels (Capital)  
+BF ,NA ,Not Available       
+BG ,01 ,Burgas              
+BG ,02 ,Grad Sofiya         
+BG ,03 ,Khaskovo            
+BG ,04 ,Lovech              
+BG ,05 ,Montana             
+BG ,06 ,Plovdiv             
+BG ,07 ,Ruse                
+BG ,08 ,Sofiya              
+BG ,09 ,Varna               
+BH ,NA ,Not Available       
+BI ,NA ,Not Available       
+BJ ,NA ,Not Available       
+BL ,NA ,Not Available       
+BM ,NA ,Not Available       
+BN ,NA ,Not Available       
+BO ,NA ,Not Available       
+BR ,AC ,Acre                
+BR ,AL ,Alagoas             
+BR ,AM ,Amazon              
+BR ,AP ,Amapa               
+BR ,BA ,Bahia               
+BR ,CE ,Ceara               
+BR ,DF ,Brasilia            
+BR ,ES ,Espirito Santo      
+BR ,GO ,Goias               
+BR ,MA ,Maranhao            
+BR ,MG ,Minas Gerais        
+BR ,MS ,Mato Grosso do Sul  
+BR ,MT ,Mato Grosso         
+BR ,PA ,Para                
+BR ,PB ,Paraiba             
+BR ,PE ,Pernambuco          
+BR ,PI ,Piaui               
+BR ,PR ,Parana              
+BR ,RJ ,Rio de Janeiro      
+BR ,RN ,Rio Grande do Norte 
+BR ,RO ,Rondonia            
+BR ,RR ,Roraima             
+BR ,RS ,Rio Grande do Sul   
+BR ,SC ,Santa Catarina      
+BR ,SE ,Sergipe             
+BR ,SP ,Sao Paulo           
+BR ,TO ,Tocantins           
+BS ,NA ,Not Available       
+BT ,NA ,Not Available       
+BV ,NA ,Not Available       
+BW ,NA ,Not Available       
+BY ,NA ,Not Available       
+BZ ,NA ,Not Available       
+CA ,AB ,Alberta             
+CA ,BC ,British Columbia    
+CA ,MB ,Manitoba            
+CA ,NB ,New Brunswick       
+CA ,NF ,Newfoundland & Labr.
+CA ,NS ,Nova Scotia         
+CA ,NU ,Nunavut             
+CA ,NW ,Northwest Terr.     
+CA ,ON ,Ontario             
+CA ,PE ,Prince Edward Island
+CA ,QC ,Quebec              
+CA ,SK ,Saskatchewan        
+CA ,YK ,Yukon Territory     
+CC ,NA ,Not Available       
+CD ,NA ,Not Available       
+CF ,NA ,Not Available       
+CG ,NA ,Not Available       
+CH ,AG ,Aargau              
+CH ,AI ,Inner-Rhoden        
+CH ,AR ,Ausser-Rhoden       
+CH ,BE ,Bern                
+CH ,BL ,Basel Land          
+CH ,BS ,Basel Stadt         
+CH ,FR ,Fribourg            
+CH ,GE ,Geneva              
+CH ,GL ,Glarus              
+CH ,GR ,Graubuenden         
+CH ,JU ,Jura                
+CH ,LU ,Lucerne             
+CH ,NE ,Neuchatel           
+CH ,NW ,Nidwalden           
+CH ,OW ,Obwalden            
+CH ,SG ,St. Gallen          
+CH ,SH ,Schaffhausen        
+CH ,SO ,Solothurn           
+CH ,SZ ,Schwyz              
+CH ,TG ,Thurgau             
+CH ,TI ,Ticino              
+CH ,UR ,Uri                 
+CH ,VD ,Vaud                
+CH ,VS ,Valais              
+CH ,ZG ,Zug                 
+CH ,ZH ,Zurich              
+CI ,NA ,Not Available       
+CK ,NA ,Not Available       
+CL ,01 ,I - Iquique         
+CL ,02 ,II - Antofagasta    
+CL ,03 ,III - Copiapo       
+CL ,04 ,IV - La Serena      
+CL ,05 ,V - Valparaiso      
+CL ,06 ,VI - Rancagua       
+CL ,07 ,VII - Talca         
+CL ,08 ,VIII - Concepcion   
+CL ,09 ,IX - Temuco         
+CL ,10 ,X - Puerto Montt    
+CL ,11 ,XI - Coyhaique      
+CL ,12 ,XII - Punta Arenas  
+CL ,13 ,RM - Santiago       
+CM ,NA ,Not Available       
+CN ,010,Beijing             
+CN ,020,Shanghai            
+CN ,030,Tianjin             
+CN ,040,Nei Mongol          
+CN ,050,Shanxi              
+CN ,060,Hebei               
+CN ,070,Liaoning            
+CN ,080,Jilin               
+CN ,090,Heilongjiang        
+CN ,100,Jiangsu             
+CN ,110,Anhui               
+CN ,120,Shandong            
+CN ,130,Zhejiang            
+CN ,140,Jiangxi             
+CN ,150,Fujian              
+CN ,160,Hunan               
+CN ,170,Hubei               
+CN ,180,Henan               
+CN ,190,Guangdong           
+CN ,200,Hainan              
+CN ,210,Guangxi             
+CN ,220,Guizhou             
+CN ,230,Sichuan             
+CN ,240,Yunnan              
+CN ,250,Shaanxi             
+CN ,260,Gansu               
+CN ,270,Ningxia             
+CN ,280,Qinghai             
+CN ,290,Xinjiang            
+CN ,300,Xizang              
+CN ,320,Chong Qing          
+CO ,05 ,ANTIOQUIA           
+CO ,08 ,ATLANTICO           
+CO ,11 ,BOGOTA              
+CO ,13 ,BOLIVAR             
+CO ,15 ,BOYACA              
+CO ,17 ,CALDAS              
+CO ,18 ,CAQUETA             
+CO ,19 ,CAUCA               
+CO ,20 ,CESAR               
+CO ,23 ,CORDOBA             
+CO ,25 ,CUNDINAMARCA        
+CO ,27 ,CHOCO               
+CO ,41 ,HUILA               
+CO ,44 ,LA GUAJIRA          
+CO ,47 ,MAGDALENA           
+CO ,50 ,META                
+CO ,52 ,NARINO              
+CO ,54 ,NORTE SANTANDER     
+CO ,63 ,QUINDIO             
+CO ,66 ,RISARALDA           
+CO ,68 ,SANTANDER           
+CO ,70 ,SUCRE               
+CO ,73 ,TOLIMA              
+CO ,76 ,VALLE               
+CO ,81 ,ARAUCA              
+CO ,85 ,CASANARE            
+CO ,86 ,PUTUMAYO            
+CO ,88 ,SAN ANDRES          
+CO ,91 ,AMAZONAS            
+CO ,94 ,GUAINIA             
+CO ,95 ,GUAVIARE            
+CO ,97 ,VAUPES              
+CO ,99 ,VICHADA             
+CR ,NA ,Not Available       
+CS ,NA ,Not Available       
+CU ,NA ,Not Available       
+CV ,NA ,Not Available       
+CX ,NA ,Not Available       
+CY ,NA ,Not Available       
+CZ ,11 ,Praha               
+CZ ,21 ,Stredocesky         
+CZ ,31 ,Jihocesky           
+CZ ,32 ,Plzensky            
+CZ ,41 ,Karlovarsky         
+CZ ,42 ,Ustecky             
+CZ ,51 ,Liberecky           
+CZ ,52 ,Kralovehradecky     
+CZ ,53 ,Pardubicky          
+CZ ,61 ,Vysocina            
+CZ ,62 ,Jihomoravsky        
+CZ ,71 ,Olomoucky           
+CZ ,72 ,Zlinsky             
+CZ ,81 ,Moravskoslezsky     
+DE ,01 ,Schleswig-Holstein  
+DE ,02 ,Hamburg             
+DE ,03 ,Lower Saxony        
+DE ,04 ,Bremen              
+DE ,05 ,Nrth Rhine Westfalia
+DE ,06 ,Hessen              
+DE ,07 ,Rhineland Palatinate
+DE ,08 ,Baden-Wurttemberg   
+DE ,09 ,Bavaria             
+DE ,10 ,Saarland            
+DE ,11 ,Berlin              
+DE ,12 ,Brandenburg         
+DE ,13 ,Mecklenburg-Vorpomm.
+DE ,14 ,Saxony              
+DE ,15 ,Saxony-Anhalt       
+DE ,16 ,Thuringia           
+DJ ,NA ,Not Available       
+DK ,001,Danish Capital Reg. 
+DK ,002,Central Jutland     
+DK ,003,North Jutland       
+DK ,004,Zealand             
+DK ,005,South Denmark       
+DM ,NA ,Not Available       
+DO ,NA ,Not Available       
+DZ ,NA ,Not Available       
+EC ,NA ,Not Available       
+EE ,NA ,Not Available       
+EG ,NA ,Not Available       
+EH ,NA ,Not Available       
+ER ,NA ,Not Available       
+ES ,01 ,Alava               
+ES ,02 ,Albacete            
+ES ,03 ,Alicante            
+ES ,04 ,Almeria             
+ES ,05 ,Avila               
+ES ,06 ,Badajoz             
+ES ,07 ,Baleares            
+ES ,08 ,Barcelona           
+ES ,09 ,Burgos              
+ES ,10 ,Caceres             
+ES ,11 ,Cadiz               
+ES ,12 ,Castellon           
+ES ,13 ,Ciudad Real         
+ES ,14 ,Cordoba             
+ES ,15 ,La Coruna           
+ES ,16 ,Cuenca              
+ES ,17 ,Gerona              
+ES ,18 ,Granada             
+ES ,19 ,Guadalajara         
+ES ,20 ,Guipuzcoa           
+ES ,21 ,Huelva              
+ES ,22 ,Huesca              
+ES ,23 ,Jaen                
+ES ,24 ,Leon                
+ES ,25 ,Lerida              
+ES ,26 ,La Rioja            
+ES ,27 ,Lugo                
+ES ,28 ,Madrid              
+ES ,29 ,Malaga              
+ES ,30 ,Murcia              
+ES ,31 ,Navarra             
+ES ,32 ,Orense              
+ES ,33 ,Asturias            
+ES ,34 ,Palencia            
+ES ,35 ,Las Palmas          
+ES ,36 ,Pontevedra          
+ES ,37 ,Salamanca           
+ES ,38 ,Sta. Cruz Tenerife  
+ES ,39 ,Cantabria           
+ES ,40 ,Segovia             
+ES ,41 ,Sevilla             
+ES ,42 ,Soria               
+ES ,43 ,Tarragona           
+ES ,44 ,Teruel              
+ES ,45 ,Toledo              
+ES ,46 ,Valencia            
+ES ,47 ,Valladolid          
+ES ,48 ,Vizcaya             
+ES ,49 ,Zamora              
+ES ,50 ,Zaragoza            
+ET ,NA ,Not Available       
+EU ,NA ,Not Available       
+FI ,001,Ahvenanmaa          
+FI ,002,Southern Finnland   
+FI ,003,Eastern Finnland    
+FI ,004,Lappi               
+FI ,005,Western Finnland    
+FI ,006,Oulu                
+FJ ,NA ,Not Available       
+FK ,NA ,Not Available       
+FM ,NA ,Not Available       
+FO ,NA ,Not Available       
+FR ,01 ,Ain                 
+FR ,02 ,Aisne               
+FR ,03 ,Allier              
+FR ,04 ,Alpes (Hte-Provence)
+FR ,05 ,Alpes (Hautes)      
+FR ,06 ,Alpes-Maritimes     
+FR ,07 ,Ardeche             
+FR ,08 ,Ardennes            
+FR ,09 ,Ariege              
+FR ,10 ,Aube                
+FR ,11 ,Aude                
+FR ,12 ,Aveyron             
+FR ,13 ,Bouches-du-Rhone    
+FR ,14 ,Calvados            
+FR ,15 ,Cantal              
+FR ,16 ,Charente            
+FR ,17 ,Charente-Maritime   
+FR ,18 ,Cher                
+FR ,19 ,Correze             
+FR ,21 ,Cote-d'Or           
+FR ,22 ,Cotes-d'Armor       
+FR ,23 ,Creuse              
+FR ,24 ,Dordogne            
+FR ,25 ,Doubs               
+FR ,26 ,Drome               
+FR ,27 ,Eure                
+FR ,28 ,Eure-et-Loir        
+FR ,29 ,Finistere           
+FR ,2A ,Corse-du-Sud        
+FR ,2B ,Corse-du-Nord       
+FR ,30 ,Gard                
+FR ,31 ,Garonne (Haute)     
+FR ,32 ,Gers                
+FR ,33 ,Gironde             
+FR ,34 ,Herault             
+FR ,35 ,Ille-et-Vilaine     
+FR ,36 ,Indre               
+FR ,37 ,Indre-et-Loire      
+FR ,38 ,Isere               
+FR ,39 ,Jura                
+FR ,40 ,Landes              
+FR ,41 ,Loir-et-Cher        
+FR ,42 ,Loire               
+FR ,43 ,Loire (Haute)       
+FR ,44 ,Loire-Atlantique    
+FR ,45 ,Loiret              
+FR ,46 ,Lot                 
+FR ,47 ,Lot-et-Garonne      
+FR ,48 ,Lozere              
+FR ,49 ,Maine-et-Loire      
+FR ,50 ,Manche              
+FR ,51 ,Marne               
+FR ,52 ,Marne (Haute)       
+FR ,53 ,Mayenne             
+FR ,54 ,Meurthe-et-Moselle  
+FR ,55 ,Meuse               
+FR ,56 ,Morbihan            
+FR ,57 ,Moselle             
+FR ,58 ,Nievre              
+FR ,59 ,Nord                
+FR ,60 ,Oise                
+FR ,61 ,Orne                
+FR ,62 ,Pas-de-Calais       
+FR ,63 ,Puy-de-Dome         
+FR ,64 ,Pyrenees-Atlantiques
+FR ,65 ,Pyrenees (Hautes)   
+FR ,66 ,Pyrenees-Orientales 
+FR ,67 ,Bas-Rhin            
+FR ,68 ,Haut-Rhin           
+FR ,69 ,Rhone               
+FR ,70 ,Saone (Haute)       
+FR ,71 ,Saone-et-Loire      
+FR ,72 ,Sarthe              
+FR ,73 ,Savoie              
+FR ,74 ,Savoie (Haute)      
+FR ,75 ,Paris               
+FR ,76 ,Seine-Maritime      
+FR ,77 ,Seine-et-Marne      
+FR ,78 ,Yvelines            
+FR ,79 ,Sevres (Deux)       
+FR ,80 ,Somme               
+FR ,81 ,Tarn                
+FR ,82 ,Tarn-et-Garonne     
+FR ,83 ,Var                 
+FR ,84 ,Vaucluse            
+FR ,85 ,Vendee              
+FR ,86 ,Vienne              
+FR ,87 ,Vienne (Haute)      
+FR ,88 ,Vosges              
+FR ,89 ,Yonne               
+FR ,90 ,Territ.-de-Belfort  
+FR ,91 ,Essonne             
+FR ,92 ,Hauts-de-Seine      
+FR ,93 ,Seine-Saint-Denis   
+FR ,94 ,Val-de-Marne        
+FR ,95 ,Val-d'Oise          
+FR ,97 ,D.O.M.-T.O.M.       
+FR ,971,Guadeloupe          
+FR ,972,Martinique          
+FR ,973,Guyane              
+FR ,974,Reunion             
+FR ,975,Saint-Pierre-et-Miq.
+FR ,976,Wallis-et-Futuna    
+FR ,99 ,Hors-France         
+GA ,NA ,Not Available       
+GB ,AB ,Aberdeenshire       
+GB ,AG ,Argyllshire         
+GB ,AL ,Anglesey            
+GB ,AM ,Armagh              
+GB ,AN ,Angus/Forfarshire   
+GB ,AT ,Antrim              
+GB ,AY ,Ayrshire            
+GB ,BE ,Bedfordshire        
+GB ,BF ,Banffshire          
+GB ,BK ,Berkshire           
+GB ,BR ,Brecknockshire      
+GB ,BS ,Bath&NthEstSomerset 
+GB ,BT ,Buteshire           
+GB ,BU ,Buckinghamshire     
+GB ,BW ,Berwickshire        
+GB ,CA ,Cambridgeshire      
+GB ,CB ,Carmarthenshire     
+GB ,CD ,Cardiganshire       
+GB ,CF ,Caernarfonshire     
+GB ,CH ,Cheshire            
+GB ,CM ,Cromartyshire       
+GB ,CN ,Clackmannanshire    
+GB ,CO ,Cornwall            
+GB ,CT ,Caithness           
+GB ,CU ,Cumberland          
+GB ,DB ,Derbyshire          
+GB ,DD ,Denbighshire        
+GB ,DF ,Dumfriesshire       
+GB ,DN ,Down                
+GB ,DO ,Dorset              
+GB ,DT ,Dunbartonshire      
+GB ,DU ,Durham              
+GB ,DV ,Devon               
+GB ,EL ,East Lothian        
+GB ,ES ,Essex               
+GB ,FI ,Fife                
+GB ,FL ,Flintshire          
+GB ,FM ,Fermanagh           
+GB ,GL ,Gloucestershire     
+GB ,GRL,Greater London      
+GB ,GRM,Greater Manchester  
+GB ,HA ,Hampshire           
+GB ,HT ,Hertfordshire       
+GB ,HU ,Huntingdonshire     
+GB ,HW ,Hereford and Worcs. 
+GB ,IN ,Invernesshire       
+GB ,IW ,Isle of Wight       
+GB ,KE ,Kent                
+GB ,KI ,Kincardineshire     
+GB ,KK ,Kirkcudbrightshire  
+GB ,KN ,Kinross-shire       
+GB ,LA ,Lancashire          
+GB ,LD ,Londonderry         
+GB ,LE ,Leicestershire      
+GB ,LI ,Lincolnshire        
+GB ,LN ,Lanarkshire         
+GB ,MD ,Midlothian          
+GB ,ME ,Merioneth           
+GB ,MG ,Mid Glamorgan       
+GB ,MM ,Monmouthshire       
+GB ,MR ,Morayshire          
+GB ,MT ,Montgomeryshire     
+GB ,MX ,Middlesex           
+GB ,NH ,Northamptonshire    
+GB ,NK ,Norfolk             
+GB ,NR ,Nairnshire          
+GB ,NT ,Nottinghamshire     
+GB ,NU ,Northumberland      
+GB ,OR ,Orkney              
+GB ,OX ,Oxfordshire         
+GB ,PE ,Peeblesshire        
+GB ,PM ,Pembrokeshire       
+GB ,PR ,Perthshire          
+GB ,RA ,Radnorshire         
+GB ,RE ,Renfrewshire        
+GB ,RO ,Ross-shire          
+GB ,RU ,Rutland             
+GB ,RX ,Roxburghshire       
+GB ,SE ,East Sussex         
+GB ,SF ,Selkirkshire        
+GB ,SG ,South Glamorgan     
+GB ,SH ,Shropshire          
+GB ,SK ,Suffolk             
+GB ,SL ,Shetland            
+GB ,SO ,Somerset            
+GB ,ST ,Staffordshire       
+GB ,SU ,Sutherland          
+GB ,SV ,Stirlingshire       
+GB ,SW ,West Sussex         
+GB ,SY ,Surrey              
+GB ,TY ,Tyrone              
+GB ,WA ,Warwickshire        
+GB ,WC ,Worcestershire      
+GB ,WE ,Westmorland         
+GB ,WG ,West Glamorgan      
+GB ,WI ,Wiltshire           
+GB ,WK ,West Lothian        
+GB ,WT ,Wigtownshire        
+GB ,YN ,North Yorkshire     
+GB ,YS ,South Yorkshire     
+GB ,YW ,West Yorkshire      
+GD ,NA ,Not Available       
+GE ,NA ,Not Available       
+GF ,NA ,Not Available       
+GG ,NA ,Not Available       
+GH ,NA ,Not Available       
+GI ,NA ,Not Available       
+GL ,NA ,Not Available       
+GM ,NA ,Not Available       
+GN ,NA ,Not Available       
+GP ,NA ,Not Available       
+GQ ,NA ,Not Available       
+GR ,01 ,Aitolia kai Akarnan.
+GR ,02 ,Akhaia              
+GR ,03 ,Argolis             
+GR ,04 ,Arkadhia            
+GR ,05 ,Arta                
+GR ,06 ,Attiki              
+GR ,07 ,Dhodhekanisos       
+GR ,08 ,Dhrama              
+GR ,09 ,Evritania           
+GR ,10 ,Evros               
+GR ,11 ,Evvoia              
+GR ,12 ,Florina             
+GR ,13 ,Fokis               
+GR ,14 ,Fthiotis            
+GR ,15 ,Grevena             
+GR ,16 ,Ilia                
+GR ,17 ,Imathia             
+GR ,18 ,Ioannina            
+GR ,19 ,Iraklion            
+GR ,20 ,Kardhitsa           
+GR ,21 ,Kastoria            
+GR ,22 ,Kavala              
+GR ,23 ,Kefallinia          
+GR ,24 ,Kerkira             
+GR ,25 ,Khalkidhiki         
+GR ,26 ,Khania              
+GR ,27 ,Khios               
+GR ,28 ,Kikladhes           
+GR ,29 ,Kilkis              
+GR ,30 ,Korinthia           
+GR ,31 ,Kozani              
+GR ,32 ,Lakonia             
+GR ,33 ,Larisa              
+GR ,34 ,Lasithi             
+GR ,35 ,Lesvos              
+GR ,36 ,Levkas              
+GR ,37 ,Magnisia            
+GR ,38 ,Messinia            
+GR ,39 ,Pella               
+GR ,40 ,Pieria              
+GR ,41 ,Piraievs            
+GR ,42 ,Preveza             
+GR ,43 ,Rethimni            
+GR ,44 ,Rodhopi             
+GR ,45 ,Samos               
+GR ,46 ,Serrai              
+GR ,47 ,Thesprotia          
+GR ,48 ,Thessaloniki        
+GR ,49 ,Trikala             
+GR ,50 ,Voiotia             
+GR ,51 ,Xanthi              
+GR ,52 ,Zakinthos           
+GS ,NA ,Not Available       
+GT ,NA ,Not Available       
+GU ,NA ,Not Available       
+GW ,NA ,Not Available       
+GY ,NA ,Not Available       
+HK ,HK ,Hong Kong Island    
+HK ,KLN,Kowloon             
+HK ,NT ,New Territories     
+HM ,NA ,Not Available       
+HN ,NA ,Not Available       
+HR ,A00,Zagrebacka          
+HR ,B00,Krapinsko-zagorska  
+HR ,C00,Sisacko-moslavacka  
+HR ,D00,Karlovacka          
+HR ,E00,Varazdinska         
+HR ,F00,Koprivnicko-krizevac
+HR ,G00,Bjelovarsko-bilogors
+HR ,H00,Rijecko-goranska    
+HR ,I00,Licko-senjska       
+HR ,J00,Viroviticko-podravac
+HR ,K00,Pozesko-slavonska   
+HR ,L00,Slavonskobrodska    
+HR ,M00,Zadarska            
+HR ,N00,Osjecko-baranjska   
+HR ,O00,Sibensko-kninska    
+HR ,P00,Vukovarsko-srijemska
+HR ,R00,Splitsko-dalmatinska
+HR ,S00,Istarska            
+HR ,T00,Dubrovacko-neretvans
+HR ,U00,Medjimurska         
+HR ,V00,Zagreb              
+HT ,NA ,Not Available       
+HU ,01 ,Bacs-Kiskun         
+HU ,02 ,Baranya             
+HU ,03 ,Bekes               
+HU ,04 ,Bekescsaba          
+HU ,05 ,Borsod-Abauj-Zemplen
+HU ,06 ,Budapest            
+HU ,07 ,Csongrad            
+HU ,08 ,Debrecen            
+HU ,09 ,Dunaujvaros         
+HU ,10 ,Eger                
+HU ,11 ,Fejer               
+HU ,12 ,Gyor                
+HU ,13 ,Gyor-Moson-Sopron   
+HU ,14 ,Hajdu-Bihar         
+HU ,15 ,Heves               
+HU ,16 ,Hodmezovasarhely    
+HU ,17 ,Jasz-Nagykun-Szolnok
+HU ,18 ,Kaposvar            
+HU ,19 ,Kecskemet           
+HU ,20 ,Komarom-Esztergom   
+HU ,21 ,Miskolc             
+HU ,22 ,Nagykanizsa         
+HU ,23 ,Nograd              
+HU ,24 ,Nyiregyhaza         
+HU ,25 ,Pecs                
+HU ,26 ,Pest                
+HU ,27 ,Somogy              
+HU ,28 ,Sopron              
+HU ,29 ,Szabolcs-Szat.-Bereg
+HU ,30 ,Szeged              
+HU ,31 ,Szekesfehervar      
+HU ,32 ,Szolnok             
+HU ,33 ,Szombathely         
+HU ,34 ,Tatabanya           
+HU ,35 ,Tolna               
+HU ,36 ,Vas                 
+HU ,37 ,Veszprem            
+HU ,38 ,Zala                
+HU ,39 ,Zalaegerszeg        
+ID ,01 ,DKI Jakarta Jakarta 
+ID ,02 ,Jawa Barat West Java
+ID ,03 ,Jawa Tengah Central 
+ID ,04 ,Jawa Timur East Java
+ID ,05 ,DI Yogyakarta Yogyak
+ID ,06 ,DI Aceh Aceh        
+ID ,07 ,Sumatera Utara North
+ID ,08 ,Sumatera Barat West 
+ID ,09 ,Riau Riau           
+ID ,10 ,Jambi Jambi         
+ID ,11 ,Sumatera Selatan Sou
+ID ,12 ,Bengkulu Bengkulu   
+ID ,13 ,Lampung Lampung     
+ID ,14 ,Kalimantan Selatan S
+ID ,15 ,Kalimantan Barat Wes
+ID ,16 ,Kalimantan Tengah Ce
+ID ,17 ,Kalimantan Timur Eas
+ID ,18 ,Sulawesi Selatan Sou
+ID ,19 ,Sulawesi Tenggara So
+ID ,20 ,Sulawesi Tengah Cent
+ID ,21 ,Sulawesi Utara North
+ID ,22 ,Bali Bali           
+ID ,23 ,Nusa Tenggara Barat 
+ID ,24 ,Nusa Tenggara Timur 
+ID ,25 ,Maluku Maluku       
+ID ,26 ,Irian Jaya Irian Jay
+ID ,27 ,Timor Timur East Tim
+IE ,CK ,Cork                
+IE ,CL ,Clare               
+IE ,CV ,Cavan               
+IE ,CW ,Carlow              
+IE ,DB ,Dublin              
+IE ,DG ,Donegal             
+IE ,GW ,Galway              
+IE ,KD ,Kildare             
+IE ,KK ,Kilkenny            
+IE ,KY ,Kerry               
+IE ,LF ,Longford            
+IE ,LI ,Limerick            
+IE ,LM ,Leitrim             
+IE ,LS ,Laois               
+IE ,LT ,Louth               
+IE ,MH ,Monaghan            
+IE ,MT ,Meath               
+IE ,MY ,Mayo                
+IE ,OF ,Offaly              
+IE ,RC ,Rosscommon          
+IE ,SG ,Sligo               
+IE ,TP ,Tipperary           
+IE ,WF ,Waterford           
+IE ,WK ,Wicklow             
+IE ,WM ,Westmeath           
+IE ,WX ,Wexford             
+IL ,01 ,Central             
+IL ,02 ,Haifa               
+IL ,03 ,Jerusalem           
+IL ,04 ,Northern            
+IL ,05 ,Southern            
+IL ,06 ,Tel Aviv            
+IM ,NA ,Not Available       
+IN ,01 ,Andra Pradesh       
+IN ,02 ,Arunachal Pradesh   
+IN ,03 ,Assam               
+IN ,04 ,Bihar               
+IN ,05 ,Goa                 
+IN ,06 ,Gujarat             
+IN ,07 ,Haryana             
+IN ,08 ,Himachal Pradesh    
+IN ,09 ,Jammu und Kashmir   
+IN ,10 ,Karnataka           
+IN ,11 ,Kerala              
+IN ,12 ,Madhya Pradesh      
+IN ,13 ,Maharashtra         
+IN ,14 ,Manipur             
+IN ,15 ,Megalaya            
+IN ,16 ,Mizoram             
+IN ,17 ,Nagaland            
+IN ,18 ,Orissa              
+IN ,19 ,Punjab              
+IN ,20 ,Rajasthan           
+IN ,21 ,Sikkim              
+IN ,22 ,Tamil Nadu          
+IN ,23 ,Tripura             
+IN ,24 ,Uttar Pradesh       
+IN ,25 ,West Bengal         
+IN ,26 ,Andaman und Nico.In.
+IN ,27 ,Chandigarh          
+IN ,28 ,Dadra und Nagar Hav.
+IN ,29 ,Daman und Diu       
+IN ,30 ,Delhi               
+IN ,31 ,Lakshadweep         
+IN ,32 ,Pondicherry         
+IN ,33 ,Chhaattisgarh       
+IN ,34 ,Jharkhand           
+IN ,35 ,Uttaranchal         
+IN ,A1 ,                    
+IN ,A2 ,                    
+IN ,A3 ,                    
+IN ,A4 ,                    
+IO ,NA ,Not Available       
+IQ ,NA ,Not Available       
+IR ,NA ,Not Available       
+IS ,NA ,Not Available       
+IT ,AG ,Agriento            
+IT ,AL ,Alessandria         
+IT ,AN ,Ancona              
+IT ,AO ,Aosta               
+IT ,AP ,Ascoli Piceno       
+IT ,AQ ,L'Aquila            
+IT ,AR ,Arezzo              
+IT ,AT ,Asti                
+IT ,AV ,Avellino            
+IT ,BA ,Bari                
+IT ,BG ,Bergamo             
+IT ,BI ,Biella              
+IT ,BL ,Belluno             
+IT ,BN ,Benevento           
+IT ,BO ,Bologna             
+IT ,BR ,Brindisi            
+IT ,BS ,Brescia             
+IT ,BZ ,Bolzano             
+IT ,CA ,Cagliari            
+IT ,CB ,Campobasso          
+IT ,CE ,Caserta             
+IT ,CH ,Chieti              
+IT ,CL ,Caltanisetta        
+IT ,CN ,Cuneo               
+IT ,CO ,Como                
+IT ,CR ,Cremona             
+IT ,CS ,Cosenza             
+IT ,CT ,Catania             
+IT ,CZ ,Catanzaro           
+IT ,EN ,Enna                
+IT ,FC ,Forli/Cesana        
+IT ,FE ,Ferrara             
+IT ,FG ,Foggia              
+IT ,FI ,Florence            
+IT ,FR ,Frosinone           
+IT ,GE ,Genova              
+IT ,GO ,Gorizia             
+IT ,GR ,Grosseto            
+IT ,IM ,Imperia             
+IT ,IS ,Isernia             
+IT ,KR ,Crotone             
+IT ,LC ,Lecco               
+IT ,LE ,Lecce               
+IT ,LI ,Livorno             
+IT ,LO ,Lodi                
+IT ,LT ,Latina              
+IT ,LU ,Lucca               
+IT ,MC ,Macerata            
+IT ,ME ,Messina             
+IT ,MI ,Milan               
+IT ,MN ,Mantova             
+IT ,MO ,Modena              
+IT ,MS ,Massa Carrara       
+IT ,MT ,Matera              
+IT ,NA ,Naples              
+IT ,NO ,Novara              
+IT ,NU ,Nuoro               
+IT ,OR ,Oristano            
+IT ,PA ,Palermo             
+IT ,PC ,Piacenza            
+IT ,PD ,Padova              
+IT ,PE ,Pescara             
+IT ,PG ,Perugia             
+IT ,PI ,Pisa                
+IT ,PN ,Pordenone           
+IT ,PO ,Prato               
+IT ,PR ,Parma               
+IT ,PT ,Pistoia             
+IT ,PU ,Pesaro-Urbino       
+IT ,PV ,Pavia               
+IT ,PZ ,Potenza             
+IT ,RA ,Ravenna             
+IT ,RC ,Reggio Calabria     
+IT ,RE ,Reggio Emilia       
+IT ,RG ,Ragusa              
+IT ,RI ,Rieti               
+IT ,RM ,Rome                
+IT ,RN ,Rimini              
+IT ,RO ,Rovigo              
+IT ,SA ,Salerno             
+IT ,SI ,Siena               
+IT ,SO ,Sondrio             
+IT ,SP ,La Spezia           
+IT ,SR ,Siracusa            
+IT ,SS ,Sassari             
+IT ,SV ,Savona              
+IT ,TA ,Taranto             
+IT ,TE ,Teramo              
+IT ,TN ,Trento              
+IT ,TO ,Turin               
+IT ,TP ,Trapani             
+IT ,TR ,Terni               
+IT ,TS ,Trieste             
+IT ,TV ,Treviso             
+IT ,UD ,Udine               
+IT ,VA ,Varese              
+IT ,VB ,Verbania            
+IT ,VC ,Vercelli            
+IT ,VE ,Venice              
+IT ,VI ,Vicenza             
+IT ,VR ,Verona              
+IT ,VT ,Viterbo             
+IT ,VV ,Vibo Valentia       
+JE ,NA ,Not Available       
+JM ,NA ,Not Available       
+JO ,NA ,Not Available       
+JP ,01 ,Hokkaido            
+JP ,02 ,Aomori              
+JP ,03 ,Iwate               
+JP ,04 ,Miyagi              
+JP ,05 ,Akita               
+JP ,06 ,Yamagata            
+JP ,07 ,Fukushima           
+JP ,08 ,Ibaraki             
+JP ,09 ,Tochigi             
+JP ,10 ,Gunma               
+JP ,11 ,Saitama             
+JP ,12 ,Chiba               
+JP ,13 ,Tokyo               
+JP ,14 ,Kanagawa            
+JP ,15 ,Niigata             
+JP ,16 ,Toyama              
+JP ,17 ,Ishikawa            
+JP ,18 ,Fukui               
+JP ,19 ,Yamanashi           
+JP ,20 ,Nagano              
+JP ,21 ,Gifu                
+JP ,22 ,Shizuoka            
+JP ,23 ,Aichi               
+JP ,24 ,Mie                 
+JP ,25 ,Shiga               
+JP ,26 ,Kyoto               
+JP ,27 ,Osaka               
+JP ,28 ,Hyogo               
+JP ,29 ,Nara                
+JP ,30 ,Wakayama            
+JP ,31 ,Tottori             
+JP ,32 ,Shimane             
+JP ,33 ,Okayama             
+JP ,34 ,Hiroshima           
+JP ,35 ,Yamaguchi           
+JP ,36 ,Tokushima           
+JP ,37 ,Kagawa              
+JP ,38 ,Ehime               
+JP ,39 ,Kochi               
+JP ,40 ,Fukuoka             
+JP ,41 ,Saga                
+JP ,42 ,Nagasaki            
+JP ,43 ,Kumamoto            
+JP ,44 ,Oita                
+JP ,45 ,Miyazaki            
+JP ,46 ,Kagoshima           
+JP ,47 ,Okinawa             
+KE ,NA ,Not Available       
+KG ,NA ,Not Available       
+KH ,NA ,Not Available       
+KI ,NA ,Not Available       
+KM ,NA ,Not Available       
+KN ,NA ,Not Available       
+KP ,NA ,Not Available       
+KR ,01 ,Cheju-do            
+KR ,02 ,Cholla-bukto        
+KR ,03 ,Cholla-namdo        
+KR ,04 ,Ch´ungch´ong-bukto  
+KR ,05 ,Ch´ungch´ong-namdo  
+KR ,06 ,Inch´on-jikhalsi    
+KR ,07 ,Kangwon-do          
+KR ,08 ,Kwangju-jikhalsi    
+KR ,09 ,Kyonggi-do          
+KR ,10 ,Kyongsang-bukto     
+KR ,11 ,Kyongsang-namdo     
+KR ,12 ,Pusan-jikhalsi      
+KR ,13 ,Soul-t´ukpyolsi     
+KR ,14 ,Taegu-jikhalsi      
+KR ,15 ,Taejon-jikhalsi     
+KW ,NA ,Not Available       
+KY ,NA ,Not Available       
+KZ ,00 ,Almatynskaia        
+KZ ,01 ,Kostanaiskaia       
+KZ ,02 ,Severo-Kazakhstansk 
+KZ ,03 ,Pavlodarskaia       
+KZ ,04 ,Akmolinskaia        
+KZ ,05 ,Aktubinskaia        
+KZ ,06 ,Atyrauskaia         
+KZ ,07 ,Zapadno-Kazakhst    
+KZ ,08 ,Mangystayskaia      
+KZ ,09 ,Karagandinskaia     
+KZ ,10 ,Vostochno-Kazakhstan
+KZ ,11 ,Gambilskaia         
+KZ ,12 ,Kyzilordinskaia     
+LA ,NA ,Not Available       
+LB ,NA ,Not Available       
+LC ,NA ,Not Available       
+LI ,NA ,Not Available       
+LK ,NA ,Not Available       
+LR ,NA ,Not Available       
+LS ,NA ,Not Available       
+LT ,NA ,Not Available       
+LU ,NA ,Not Available       
+LV ,NA ,Not Available       
+LY ,NA ,Not Available       
+MA ,NA ,Not Available       
+MC ,NA ,Not Available       
+MD ,NA ,Not Available       
+ME ,NA ,Not Available       
+MF ,NA ,Not Available       
+MG ,NA ,Not Available       
+MH ,NA ,Not Available       
+MK ,NA ,Not Available       
+ML ,NA ,Not Available       
+MM ,NA ,Not Available       
+MN ,NA ,Not Available       
+MO ,NA ,Not Available       
+MP ,NA ,Not Available       
+MQ ,NA ,Not Available       
+MR ,NA ,Not Available       
+MS ,NA ,Not Available       
+MT ,NA ,Not Available       
+MU ,NA ,Not Available       
+MV ,NA ,Not Available       
+MW ,NA ,Not Available       
+MX ,AGS,Aguascalientes      
+MX ,BC ,Baja California     
+MX ,BCS,Baja California S   
+MX ,CHI,Chihuahua           
+MX ,CHS,Chiapas             
+MX ,CMP,Campeche            
+MX ,COA,Coahuila            
+MX ,COL,Colima              
+MX ,DF ,Distrito Federal    
+MX ,DGO,Durango             
+MX ,GRO,Guerrero            
+MX ,GTO,Guanajuato          
+MX ,HGO,Hidalgo             
+MX ,JAL,Jalisco             
+MX ,MCH,Michoacan           
+MX ,MEX,Estado de Mexico    
+MX ,MOR,Morelos             
+MX ,NAY,Nayarit             
+MX ,NL ,Nuevo Leon          
+MX ,OAX,Oaxaca              
+MX ,PUE,Puebla              
+MX ,QR ,Quintana Roo        
+MX ,QRO,Queretaro           
+MX ,SIN,Sinaloa             
+MX ,SLP,San Luis Potosi     
+MX ,SON,Sonora              
+MX ,TAB,Tabasco             
+MX ,TLX,Tlaxcala            
+MX ,TMS,Tamaulipas          
+MX ,VER,Veracruz            
+MX ,YUC,Yucatan             
+MX ,ZAC,Zacatecas           
+MY ,JOH,Johor               
+MY ,KED,Kedah               
+MY ,KEL,Kelantan            
+MY ,KUL,Kuala Lumpur        
+MY ,LAB,Labuan              
+MY ,MEL,Melaka              
+MY ,PAH,Pahang              
+MY ,PEL,Perlis              
+MY ,PER,Perak               
+MY ,PIN,Pulau Pinang        
+MY ,PSK,Wil. Persekutuan    
+MY ,SAB,Sabah               
+MY ,SAR,Sarawak             
+MY ,SEL,Selangor            
+MY ,SER,Negeri Sembilan     
+MY ,TRE,Trengganu           
+MZ ,NA ,Not Available       
+NA ,NA ,Not Available       
+NC ,NA ,Not Available       
+NE ,NA ,Not Available       
+NF ,NA ,Not Available       
+NG ,NA ,Not Available       
+NI ,NA ,Not Available       
+NL ,01 ,Drenthe             
+NL ,02 ,Flevoland           
+NL ,03 ,Friesland           
+NL ,04 ,Gelderland          
+NL ,05 ,Groningen           
+NL ,06 ,Limburg             
+NL ,07 ,Noord-Brabant       
+NL ,08 ,Noord-Holland       
+NL ,09 ,Overijssel          
+NL ,10 ,Utrecht             
+NL ,11 ,Zeeland             
+NL ,12 ,Zuid-Holland        
+NO ,01 ,Ostfold County      
+NO ,02 ,Akershus County     
+NO ,03 ,Oslo                
+NO ,04 ,Hedmark County      
+NO ,05 ,Oppland County      
+NO ,06 ,Buskerud County     
+NO ,07 ,Vestfold County     
+NO ,08 ,Telemark County     
+NO ,09 ,Aust-Agder County   
+NO ,10 ,Vest-Agder County   
+NO ,11 ,Rogaland County     
+NO ,12 ,Hordaland County    
+NO ,14 ,Sogn og Fjordane C. 
+NO ,15 ,More og Romsdal C.  
+NO ,16 ,Sor-Trondelag County
+NO ,17 ,Nord-Trondelag Cnty 
+NO ,18 ,Nordland County     
+NO ,19 ,Troms County        
+NO ,20 ,Finnmark County     
+NP ,NA ,Not Available       
+NR ,NA ,Not Available       
+NT ,NA ,Not Available       
+NU ,NA ,Not Available       
+NZ ,AKL,Auckland            
+NZ ,BOP,Bay of Plenty       
+NZ ,CAN,Canterbury          
+NZ ,HAB,Hawke´s Bay         
+NZ ,MAN,Manawatu-Wanganui   
+NZ ,NTL,Northland           
+NZ ,OTA,Otago               
+NZ ,STL,Southland           
+NZ ,TAR,Taranaki            
+NZ ,WAI,Waikato             
+NZ ,WEC,West Coast          
+NZ ,WLG,Wellington          
+OM ,NA ,Not Available       
+OR ,NA ,Not Available       
+PA ,NA ,Not Available       
+PE ,01 ,Tumbes              
+PE ,02 ,Piura               
+PE ,03 ,Lambayeque          
+PE ,04 ,La Libertad         
+PE ,05 ,Ancash              
+PE ,06 ,Lima y Callao       
+PE ,07 ,Ica                 
+PE ,08 ,Arequipa            
+PE ,09 ,Moquegua            
+PE ,10 ,Tacna               
+PE ,11 ,Amazon              
+PE ,12 ,Cajamarca           
+PE ,13 ,San Martin          
+PE ,14 ,Huanuco             
+PE ,15 ,Pasco               
+PE ,16 ,Junin               
+PE ,17 ,Huancavelica        
+PE ,18 ,Ayacucho            
+PE ,19 ,Apurimac            
+PE ,20 ,Cuzco               
+PE ,21 ,Puno                
+PE ,22 ,Loreto              
+PE ,23 ,Ucayali             
+PE ,24 ,Madre de Dios       
+PF ,NA ,Not Available       
+PG ,NA ,Not Available       
+PH ,01 ,Ilocos              
+PH ,02 ,Cagayan Valley      
+PH ,03 ,Central Luzon       
+PH ,04 ,South Luzon         
+PH ,05 ,Bicol               
+PH ,06 ,West Visayas        
+PH ,07 ,Central Visayas     
+PH ,08 ,Eastern Visayas     
+PH ,09 ,Western Mindanao    
+PH ,10 ,Northern Mindanao   
+PH ,11 ,Central Mindanao    
+PH ,12 ,South Mindanao      
+PK ,NA ,Not Available       
+PL ,DSL,Dolnoslaskie        
+PL ,K-P,Kujawsko-Pomorskie  
+PL ,LBL,Lubelskie           
+PL ,LBS,Lubuskie            
+PL ,LDZ,Lodzkie             
+PL ,MAL,Malopolskie         
+PL ,MAZ,Mazowieckie         
+PL ,OPO,Opolskie            
+PL ,PDK,Podkarpackie        
+PL ,PDL,Podlaskie           
+PL ,POM,Pomorskie           
+PL ,SLS,Slaskie             
+PL ,SWK,Swietokrzyskie      
+PL ,W-M,Warminsko-mazurskie 
+PL ,WLK,Wielkopolskie       
+PL ,Z-P,Zachodnio-Pomorskie 
+PM ,NA ,Not Available       
+PN ,NA ,Not Available       
+PR ,NA ,Not Available       
+PS ,NA ,Not Available       
+PT ,10 ,Minho-Lima          
+PT ,11 ,Cavado              
+PT ,12 ,Ave                 
+PT ,13 ,Grande Porto        
+PT ,14 ,Tamega              
+PT ,15 ,Entre Douro e Vouga 
+PT ,16 ,Douro               
+PT ,17 ,Alto Tras-os-Montes 
+PT ,20 ,Baixo Vouga         
+PT ,21 ,Baixo Mondego       
+PT ,22 ,Pinhal Litoral      
+PT ,23 ,Pinhal Interior N.  
+PT ,24 ,Pinhal Interior Sul 
+PT ,25 ,Dao-Lafoes          
+PT ,26 ,Serra da Estrela    
+PT ,27 ,Beira Interior Norte
+PT ,28 ,Beira Interior Sul  
+PT ,29 ,Cova da Beira       
+PT ,30 ,Oeste               
+PT ,31 ,Grande Lisboa       
+PT ,32 ,Peninsula de Setubal
+PT ,33 ,Medio Tejo          
+PT ,34 ,Leziria do Tejo     
+PT ,40 ,Alentejo Litoral    
+PT ,41 ,Alto Alentejo       
+PT ,42 ,Alentejo Central    
+PT ,43 ,Baixo Alentejo      
+PT ,50 ,Algarve             
+PT ,60 ,Reg. Aut. dos Açores
+PT ,70 ,Reg. Aut. da Madeira
+PW ,NA ,Not Available       
+PY ,NA ,Not Available       
+QA ,NA ,Not Available       
+RE ,NA ,Not Available       
+RO ,01 ,Alba                
+RO ,02 ,Arad                
+RO ,03 ,Arges               
+RO ,04 ,Bacau               
+RO ,05 ,Bihor               
+RO ,06 ,Bistrita-Nasaud     
+RO ,07 ,Botosani            
+RO ,08 ,Braila              
+RO ,09 ,Brasov              
+RO ,10 ,Bucuresti           
+RO ,11 ,Buzau               
+RO ,12 ,Calarasi            
+RO ,13 ,Caras-Severin       
+RO ,14 ,Cluj                
+RO ,15 ,Constanta           
+RO ,16 ,Covasna             
+RO ,17 ,Dimbovita           
+RO ,18 ,Dolj                
+RO ,19 ,Galati              
+RO ,20 ,Gorj                
+RO ,21 ,Giurgiu             
+RO ,22 ,Harghita            
+RO ,23 ,Hunedoara           
+RO ,24 ,Ialomita            
+RO ,25 ,Iasi                
+RO ,26 ,Maramures           
+RO ,27 ,Mehedinti           
+RO ,28 ,Mures               
+RO ,29 ,Neamt               
+RO ,30 ,Olt                 
+RO ,31 ,Prahova             
+RO ,32 ,Salaj               
+RO ,33 ,Satu Mare           
+RO ,34 ,Sibiu               
+RO ,35 ,Suceava             
+RO ,36 ,Teleorman           
+RO ,37 ,Timis               
+RO ,38 ,Tulcea              
+RO ,39 ,Vaslui              
+RO ,40 ,Vilcea              
+RO ,41 ,Vrancea             
+RS ,NA ,Not Available       
+RU ,01 ,Adigeja Republic    
+RU ,02 ,Highlands-Altay Rep.
+RU ,03 ,Republ.of Bashkortos
+RU ,04 ,Buryat Republic     
+RU ,05 ,Dagestan Republic   
+RU ,06 ,Ingushetija Republic
+RU ,07 ,Kabardino-Balkar.Rep
+RU ,08 ,Kalmyk Republic     
+RU ,09 ,Karach.-Cherkessk Re
+RU ,10 ,Karelian Republic   
+RU ,11 ,Komi Republic       
+RU ,12 ,Marijskaya Republic 
+RU ,13 ,Mordovian Republic  
+RU ,14 ,Yakutiya-Saha Rrepub
+RU ,15 ,North-Osetiya Republ
+RU ,16 ,Tatarstan Republic  
+RU ,17 ,Tuva Republic       
+RU ,18 ,The Udmurt Republic 
+RU ,19 ,Chakassky Republic  
+RU ,20 ,Chechenskaya Republ.
+RU ,21 ,Chuvash Republic    
+RU ,22 ,Altay Territory     
+RU ,23 ,Krasnodar Territory 
+RU ,24 ,Krasnoyarsk Territor
+RU ,25 ,Primorye Territory  
+RU ,26 ,Stavropol Territory 
+RU ,27 ,Khabarovsk Territory
+RU ,28 ,The Amur Area       
+RU ,29 ,The Arkhangelsk Area
+RU ,30 ,The Astrakhan Area  
+RU ,31 ,The Belgorod Area   
+RU ,32 ,The Bryansk Area    
+RU ,33 ,The Vladimir Area   
+RU ,34 ,The Volgograd Area  
+RU ,35 ,The Vologda Area    
+RU ,36 ,The Voronezh Area   
+RU ,37 ,The Ivanovo Area    
+RU ,38 ,The Irkutsk Area    
+RU ,39 ,The Kaliningrad Area
+RU ,40 ,The Kaluga Area     
+RU ,41 ,The Kamchatka Area  
+RU ,42 ,The Kemerovo Area   
+RU ,43 ,The Kirov Area      
+RU ,44 ,The Kostroma Area   
+RU ,45 ,The Kurgan Area     
+RU ,46 ,The Kursk Area      
+RU ,47 ,The Leningrad Area  
+RU ,48 ,The Lipetsk Area    
+RU ,49 ,The Magadan Area    
+RU ,50 ,The Moscow Area     
+RU ,51 ,The Murmansk Area   
+RU ,52 ,The Nizhniy Novgorod
+RU ,53 ,The Novgorod Area   
+RU ,54 ,The Novosibirsk Area
+RU ,55 ,The Omsk Area       
+RU ,56 ,The Orenburg Area   
+RU ,57 ,The Oryol Area      
+RU ,58 ,The Penza Area      
+RU ,59 ,The Perm Area       
+RU ,60 ,The Pskov Area      
+RU ,61 ,The Rostov Area     
+RU ,62 ,The Ryazan Area     
+RU ,63 ,The Samara Area     
+RU ,64 ,The Saratov Area    
+RU ,65 ,The Sakhalin Area   
+RU ,66 ,The Sverdlovsk Area 
+RU ,67 ,The Smolensk Area   
+RU ,68 ,The Tambov Area     
+RU ,69 ,The Tver Area       
+RU ,70 ,The Tomsk Area      
+RU ,71 ,The Tula Area       
+RU ,72 ,The Tyumen Area     
+RU ,73 ,The Ulyanovsk Area  
+RU ,74 ,The Chelyabinsk Area
+RU ,75 ,The Chita Area      
+RU ,76 ,The Yaroslavl Area  
+RU ,77 ,c.Moscow            
+RU ,78 ,c.St-Peterburg      
+RU ,79 ,The Jewish Auton.are
+RU ,80 ,Aginsk Buryat Aut.di
+RU ,81 ,Komy Permjats.Aut.di
+RU ,82 ,Korjacs Auton.distri
+RU ,83 ,Nenekchky Auton.dist
+RU ,84 ,The Taymir Auton.dis
+RU ,85 ,Ust-Ordinsky Buryat 
+RU ,86 ,Chanti-Mansyjsky Aut
+RU ,87 ,Chukotka Auton. dist
+RU ,88 ,Evensky Auton.distri
+RU ,89 ,Jamalo-Nenekchky Aut
+RW ,NA ,Not Available       
+SA ,NA ,Not Available       
+SB ,NA ,Not Available       
+SC ,NA ,Not Available       
+SD ,NA ,Not Available       
+SE ,001,Blekinge County     
+SE ,002,Dalarnas County     
+SE ,003,Gotland County      
+SE ,004,Gaevleborg County   
+SE ,005,Halland County      
+SE ,006,Jaemtland County    
+SE ,007,Joenkoeping County  
+SE ,008,Kalmar County       
+SE ,009,Kronoberg County    
+SE ,010,Norrbotten County   
+SE ,011,Skaane County       
+SE ,012,Stockholm County    
+SE ,013,Soedermanland County
+SE ,014,Uppsala County      
+SE ,015,Vaermland County    
+SE ,016,Vaesterbotten County
+SE ,017,Vaesternorrland Cnty
+SE ,018,Vaestmanland County 
+SE ,019,Vaestra Goetaland C.
+SE ,020,Oerebro County      
+SE ,021,Oestergoetland Cnty 
+SG ,SG ,Singapore           
+SH ,NA ,Not Available       
+SI ,01 ,Ajdovscina          
+SI ,02 ,Brezice             
+SI ,03 ,Celje               
+SI ,04 ,Cerknica            
+SI ,05 ,Crnomelj            
+SI ,06 ,Dravograd           
+SI ,07 ,Gornja Radgona      
+SI ,08 ,Grosuplje           
+SI ,09 ,Hrastnik Lasko      
+SI ,10 ,Idrija              
+SI ,11 ,Ilirska Bistrica    
+SI ,12 ,Izola               
+SI ,13 ,Jesenice            
+SI ,14 ,Kamnik              
+SI ,15 ,Kocevje             
+SI ,16 ,Koper               
+SI ,17 ,Kranj               
+SI ,18 ,Krsko               
+SI ,19 ,Lenart              
+SI ,20 ,Lendava             
+SI ,21 ,Litija              
+SI ,22 ,Ljubljana-Bezigrad  
+SI ,23 ,Ljubljana-Center    
+SI ,24 ,Ljubljana-Moste-Polj
+SI ,25 ,Ljubljana-Siska     
+SI ,26 ,Ljubljana-Vic-Rudnik
+SI ,27 ,Ljutomer            
+SI ,28 ,Logatec             
+SI ,29 ,Maribor             
+SI ,30 ,Metlika             
+SI ,31 ,Mozirje             
+SI ,32 ,Murska Sobota       
+SI ,33 ,Nova Gorica         
+SI ,34 ,Novo Mesto          
+SI ,35 ,Ormoz               
+SI ,36 ,Pesnica             
+SI ,37 ,Piran               
+SI ,38 ,Postojna            
+SI ,39 ,Ptuj                
+SI ,40 ,Radlje Ob Dravi     
+SI ,41 ,Radovljica          
+SI ,42 ,Ravne Na Koroskem   
+SI ,43 ,Ribnica             
+SI ,44 ,Ruse                
+SI ,45 ,Sentjur Pri Celju   
+SI ,46 ,Sevnica             
+SI ,47 ,Sezana              
+SI ,48 ,Skofja Loka         
+SI ,49 ,Slovenj Gradec      
+SI ,50 ,Slovenska Bistrica  
+SI ,51 ,Slovenske Konjice   
+SI ,52 ,Smarje Pri Jelsah   
+SI ,53 ,Tolmin              
+SI ,54 ,Trbovlje            
+SI ,55 ,Trebnje             
+SI ,56 ,Trzic               
+SI ,57 ,Velenje             
+SI ,58 ,Vrhnika             
+SI ,59 ,Zagorje Ob Savi     
+SI ,60 ,Zalec               
+SJ ,NA ,Not Available       
+SK ,01 ,Bratislava          
+SK ,02 ,Zapadoslovensky     
+SK ,03 ,Stredoslovensky     
+SK ,04 ,Vychodoslovensky    
+SL ,NA ,Not Available       
+SM ,NA ,Not Available       
+SN ,NA ,Not Available       
+SO ,NA ,Not Available       
+SR ,NA ,Not Available       
+SS ,NA ,Not Available       
+ST ,NA ,Not Available       
+SV ,NA ,Not Available       
+SY ,NA ,Not Available       
+SZ ,NA ,Not Available       
+TC ,NA ,Not Available       
+TD ,NA ,Not Available       
+TF ,NA ,Not Available       
+TG ,NA ,Not Available       
+TH ,01 ,Amnat Charoen       
+TH ,02 ,Ang Thong           
+TH ,03 ,Buriram             
+TH ,04 ,Chachoengsao        
+TH ,05 ,Chai Nat            
+TH ,06 ,Chaiyaphum          
+TH ,07 ,Chanthaburi         
+TH ,08 ,Chiang Mai          
+TH ,09 ,Chiang Rai          
+TH ,10 ,Chon Buri           
+TH ,11 ,Chumphon            
+TH ,12 ,Kalasin             
+TH ,13 ,Kamphaeng Phet      
+TH ,14 ,Kanchanaburi        
+TH ,15 ,Khon Kaen           
+TH ,16 ,Krabi               
+TH ,17 ,Krung Thep          
+TH ,18 ,Mahanakhon          
+TH ,19 ,Lampang             
+TH ,20 ,Lamphun             
+TH ,21 ,Loei                
+TH ,22 ,Lop Buri            
+TH ,23 ,Mae Hong Son        
+TH ,24 ,Maha Sarakham       
+TH ,25 ,Mukdahan            
+TH ,26 ,Nakhon Nayok        
+TH ,27 ,Nakhon Pathom       
+TH ,28 ,Nakhon Phanom       
+TH ,29 ,Nakhon Ratchasima   
+TH ,30 ,Nakhon Sawan        
+TH ,31 ,Nakhon Si Thammarat 
+TH ,32 ,Nan                 
+TH ,33 ,Narathiwat          
+TH ,34 ,Nong Bua Lamphu     
+TH ,35 ,Nong Khai           
+TH ,36 ,Nonthaburi          
+TH ,37 ,Pathum Thani        
+TH ,38 ,Pattani             
+TH ,39 ,Phangnga            
+TH ,40 ,Phatthalung         
+TH ,41 ,Phayao              
+TH ,42 ,Phetchabun          
+TH ,43 ,Phetchaburi         
+TH ,44 ,Phichit             
+TH ,45 ,Phitsanulok         
+TH ,46 ,Phra Nakhon Si Ayut.
+TH ,47 ,Phrae               
+TH ,48 ,Phuket              
+TH ,49 ,Prachin Buri        
+TJ ,NA ,Not Available       
+TK ,NA ,Not Available       
+TL ,NA ,Not Available       
+TM ,NA ,Not Available       
+TN ,NA ,Not Available       
+TO ,NA ,Not Available       
+TP ,NA ,Not Available       
+TR ,01 ,Adana               
+TR ,02 ,Adiyaman            
+TR ,03 ,Afyon               
+TR ,04 ,Agri                
+TR ,05 ,Amasya              
+TR ,06 ,Ankara              
+TR ,07 ,Antalya             
+TR ,08 ,Artvin              
+TR ,09 ,Aydin               
+TR ,10 ,Balikesir           
+TR ,11 ,Bilecik             
+TR ,12 ,Bingöl              
+TR ,13 ,Bitlis              
+TR ,14 ,Bolu                
+TR ,15 ,Burdur              
+TR ,16 ,Bursa               
+TR ,17 ,Canakkale           
+TR ,18 ,Cankiri             
+TR ,19 ,Corum               
+TR ,20 ,Denizli             
+TR ,21 ,Diyarbakir          
+TR ,22 ,Edirne              
+TR ,23 ,Elazig              
+TR ,24 ,Erzincan            
+TR ,25 ,Erzurum             
+TR ,26 ,Eskisehir           
+TR ,27 ,Gaziantep           
+TR ,28 ,Giresun             
+TR ,29 ,Guemueshane         
+TR ,30 ,Hakkari             
+TR ,31 ,Hatay               
+TR ,32 ,Isparta             
+TR ,33 ,Icel                
+TR ,34 ,Istanbul            
+TR ,35 ,Izmir               
+TR ,36 ,Kars                
+TR ,37 ,Kastamonu           
+TR ,38 ,Kayseri             
+TR ,39 ,Kirklareli          
+TR ,40 ,Kirshehir           
+TR ,41 ,Kocaeli             
+TR ,42 ,Konya               
+TR ,43 ,Kuetahya            
+TR ,44 ,Malatya             
+TR ,45 ,Manisa              
+TR ,46 ,K.Marash            
+TR ,47 ,Mardin              
+TR ,48 ,Mugla               
+TR ,49 ,Mush                
+TR ,50 ,Nevshehir           
+TR ,51 ,Nigde               
+TR ,52 ,Ordu                
+TR ,53 ,Rize                
+TR ,54 ,Sakarya             
+TR ,55 ,Samsun              
+TR ,56 ,Siirt               
+TR ,57 ,Sinop               
+TR ,58 ,Sivas               
+TR ,59 ,Tekirdag            
+TR ,60 ,Tokat               
+TR ,61 ,Trabzon             
+TR ,62 ,Tunceli             
+TR ,63 ,Shanliurfa          
+TR ,64 ,Ushak               
+TR ,65 ,Van                 
+TR ,66 ,Yozgat              
+TR ,67 ,Zonguldak           
+TR ,68 ,Aksaray             
+TR ,69 ,Bayburt             
+TR ,70 ,Karaman             
+TR ,71 ,Kirikkale           
+TR ,72 ,Batman              
+TR ,73 ,Shirnak             
+TR ,74 ,Bartin              
+TR ,75 ,Ardahan             
+TR ,76 ,Igdir               
+TR ,77 ,Yalova              
+TT ,NA ,Not Available       
+TV ,NA ,Not Available       
+TW ,FJN,Fu-chien            
+TW ,KSH,Kao-hsiung          
+TW ,TPE,T´ai-pei            
+TW ,TWN,Taiwan              
+TZ ,NA ,Not Available       
+UA ,CHG,Chernigivs'ka       
+UA ,CHR,Cherkas'ka          
+UA ,CHV,Chernovits'ka       
+UA ,DNP,Dnipropetrovs'ka    
+UA ,DON,Donets'ka           
+UA ,HAR,Harkivs'ka          
+UA ,HML,Hmel'nits'ka        
+UA ,HRS,Hersons'ka          
+UA ,IVF,Ivano-Frankivs'ka   
+UA ,KIE,Kievs'ka            
+UA ,KIR,Kirovograds'ka      
+UA ,KRM,Respublika Krim     
+UA ,L'V,L'vivsbka           
+UA ,LUG,Lugans'ka           
+UA ,MIK,Mikolaivs'ka        
+UA ,M_K,m.Kiev              
+UA ,M_S,m.Sevastopil'       
+UA ,ODS,Odes'ka             
+UA ,POL,Poltavs'ka          
+UA ,RIV,Rivnens'ka          
+UA ,SUM,Sums'ka             
+UA ,TER,Ternopil's'ka       
+UA ,VIN,Vinnits'ka          
+UA ,VOL,Volins'ka           
+UA ,ZAK,Zakarpats'ka        
+UA ,ZAP,Zaporiz'ka          
+UA ,ZHI,Zhitomirs'ka        
+UG ,NA ,Not Available       
+UM ,NA ,Not Available       
+UN ,NA ,Not Available       
+US ,AK ,Alaska              
+US ,AL ,Alabama             
+US ,AR ,Arkansas            
+US ,AS ,American Samoa      
+US ,AZ ,Arizona             
+US ,CA ,California          
+US ,CO ,Colorado            
+US ,CT ,Connecticut         
+US ,DC ,District of Columbia
+US ,DE ,Delaware            
+US ,FL ,Florida             
+US ,GA ,Georgia             
+US ,GU ,Guam                
+US ,HI ,Hawaii              
+US ,IA ,Iowa                
+US ,ID ,Idaho               
+US ,IL ,Illinois            
+US ,IN ,Indiana             
+US ,KS ,Kansas              
+US ,KY ,Kentucky            
+US ,LA ,Louisiana           
+US ,MA ,Massachusetts       
+US ,MD ,Maryland            
+US ,ME ,Maine               
+US ,MI ,Michigan            
+US ,MN ,Minnesota           
+US ,MO ,Missouri            
+US ,MP ,Northern Mariana Isl
+US ,MS ,Mississippi         
+US ,MT ,Montana             
+US ,NC ,North Carolina      
+US ,ND ,North Dakota        
+US ,NE ,Nebraska            
+US ,NH ,New Hampshire       
+US ,NJ ,New Jersey          
+US ,NM ,New Mexico          
+US ,NV ,Nevada              
+US ,NY ,New York            
+US ,OH ,Ohio                
+US ,OK ,Oklahoma            
+US ,OR ,Oregon              
+US ,PA ,Pennsylvania        
+US ,PR ,Puerto Rico         
+US ,RI ,Rhode Island        
+US ,SC ,South Carolina      
+US ,SD ,South Dakota        
+US ,TN ,Tennessee           
+US ,TX ,Texas               
+US ,UT ,Utah                
+US ,VA ,Virginia            
+US ,VI ,Virgin Islands      
+US ,VT ,Vermont             
+US ,WA ,Washington          
+US ,WI ,Wisconsin           
+US ,WV ,West Virginia       
+US ,WY ,Wyoming             
+UY ,NA ,Not Available       
+UZ ,NA ,Not Available       
+VA ,NA ,Not Available       
+VC ,NA ,Not Available       
+VE ,AMA,Amazon              
+VE ,ANZ,Anzoategui          
+VE ,APU,Apure               
+VE ,ARA,Aragua              
+VE ,BAR,Barinas             
+VE ,BOL,Bolivar             
+VE ,CAR,Carabobo            
+VE ,COJ,Cojedes             
+VE ,DA ,Delta Amacuro       
+VE ,DF ,Distrito Federal    
+VE ,FAL,Falcon              
+VE ,GUA,Guarico             
+VE ,LAR,Lara                
+VE ,MER,Merida              
+VE ,MIR,Miranda             
+VE ,MON,Monagas             
+VE ,NE ,Nueva Esparta       
+VE ,POR,Portuguesa          
+VE ,SUC,Sucre               
+VE ,TAC,Tachira             
+VE ,TRU,Trujillo            
+VE ,VAR,Vargas              
+VE ,YAR,Yaracuy             
+VE ,ZUL,Zulia               
+VG ,NA ,Not Available       
+VI ,NA ,Not Available       
+VN ,NA ,Not Available       
+VU ,NA ,Not Available       
+WF ,NA ,Not Available       
+WS ,NA ,Not Available       
+YE ,NA ,Not Available       
+YT ,NA ,Not Available       
+Z1 ,NA ,Not Available       
+ZA ,EC ,Eastern Cape        
+ZA ,FS ,Freestate           
+ZA ,GP ,Gauteng             
+ZA ,KZN,Kwazulu/Natal       
+ZA ,MP ,Mpumalanga          
+ZA ,NC ,Northern Cape       
+ZA ,NP ,Northern Province   
+ZA ,NW ,North-West          
+ZA ,WC ,Western Cape        
+ZM ,NA ,Not Available       
+ZW ,NA ,Not Available       
