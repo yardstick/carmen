@@ -55,7 +55,7 @@
   - BT
 - - Bolivia, Plurinational State of
   - BO
-- - Bonaire, Sint Eustatius and Saba
+- - Bonaire, Saba, St. Eustatius
   - BQ
 - - Bosnia and Herzegovina
   - BA
@@ -91,7 +91,7 @@
   - TD
 - - Chile
   - CL
-- - China
+- - China, People's Republic of
   - CN
 - - Christmas Island
   - CX
@@ -199,7 +199,7 @@
   - VA
 - - Honduras
   - HN
-- - Hong Kong
+- - Hong Kong SAR, China
   - HK
 - - Hungary
   - HU
@@ -255,7 +255,7 @@
   - LS
 - - Liberia
   - LR
-- - Libya
+- - Libyan Arab Jamahiriya
   - LY
 - - Liechtenstein
   - LI
@@ -263,9 +263,9 @@
   - LT
 - - Luxembourg
   - LU
-- - Macao
+- - Macao SAR, China
   - MO
-- - Macedonia, The Former Yugoslav Republic Of
+- - Macedonia, Republic Of
   - MK
 - - Madagascar
   - MG
@@ -343,7 +343,7 @@
   - PK
 - - Palau
   - PW
-- - Palestinian Territory, Occupied
+- - Palestinian Territories
   - PS
 - - Panama
   - PA
@@ -405,7 +405,7 @@
   - SL
 - - Singapore
   - SG
-- - Sint Maarten (Dutch part)
+- - Saint Maarten
   - SX
 - - Slovakia
   - SK
@@ -419,7 +419,7 @@
   - ZA
 - - South Georgia and the South Sandwich Islands
   - GS
-- - South Sudan, Republic of
+- - South Sudan
   - SS
 - - Spain
   - ES
@@ -439,7 +439,7 @@
   - CH
 - - Syrian Arab Republic
   - SY
-- - Taiwan
+- - Chinese Taipei
   - TW
 - - Tajikistan
   - TJ
@@ -489,9 +489,9 @@
   - VU
 - - Venezuela, Bolivarian Republic of
   - VE
-- - Viet Nam
+- - Vietnam
   - VN
-- - Virgin Islands, British
+- - Virgin British Islands
   - VG
 - - Virgin Islands, U.S.
   - VI
