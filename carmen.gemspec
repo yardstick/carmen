@@ -8,7 +8,6 @@ Gem::Specification.new do |s|
   s.name = "carmen"
   s.version = Carmen::VERSION
   s.platform    = Gem::Platform::RUBY
-
   s.authors = ["Jim Benton"]
   s.email = "jim@autonomousmachine.com"
   s.homepage = "http://github.com/jim/carmen"
