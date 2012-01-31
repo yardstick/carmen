@@ -1,11 +1,11 @@
---- 
-- - Danish Capital Reg.
-  - "001"
-- - Central Jutland
-  - "002"
-- - North Jutland
-  - "003"
-- - Zealand
-  - "004"
-- - South Denmark
-  - "005"
+---
+- - Region Hovedstaden
+  - RH
+- - Region Midtjylland
+  - RM
+- - Region Nordjylland
+  - RN
+- - Region Sjælland
+  - RSj
+- - Region Syddanmark
+  - RSy

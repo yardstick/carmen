@@ -1,80 +1,75 @@
---- 
-- - Alaska
-  - AK
+# from http://www.usps.com/ncsc/lookups/usps_abbreviations.html
+---
 - - Alabama
   - AL
-- - Arkansas
-  - AR
-- - American Samoa
-  - AS
+- - Alaska
+  - AK
 - - Arizona
   - AZ
+- - Arkansas
+  - AR
 - - California
   - CA
 - - Colorado
   - CO
 - - Connecticut
   - CT
-- - District of Columbia
-  - DC
 - - Delaware
   - DE
+- - District Of Columbia
+  - DC
 - - Florida
   - FL
 - - Georgia
   - GA
-- - Guam
-  - GU
 - - Hawaii
   - HI
-- - Iowa
-  - IA
 - - Idaho
   - ID
 - - Illinois
   - IL
 - - Indiana
   - IN
+- - Iowa
+  - IA
 - - Kansas
   - KS
 - - Kentucky
   - KY
 - - Louisiana
   - LA
-- - Massachusetts
-  - MA
-- - Maryland
-  - MD
 - - Maine
   - ME
+- - Maryland
+  - MD
+- - Massachusetts
+  - MA
 - - Michigan
   - MI
 - - Minnesota
   - MN
-- - Missouri
-  - MO
-- - Northern Mariana Isl
-  - MP
 - - Mississippi
   - MS
+- - Missouri
+  - MO
 - - Montana
   - MT
-- - North Carolina
-  - NC
-- - North Dakota
-  - ND
 - - Nebraska
   - NE
+- - Nevada
+  - NV
 - - New Hampshire
   - NH
 - - New Jersey
   - NJ
 - - New Mexico
   - NM
-- - Nevada
-  - NV
 - - New York
   - NY
+- - North Carolina
+  - NC
+- - North Dakota
+  - ND
 - - Ohio
   - OH
 - - Oklahoma
@@ -83,8 +78,6 @@
   - OR
 - - Pennsylvania
   - PA
-- - Puerto Rico
-  - PR
 - - Rhode Island
   - RI
 - - South Carolina
@@ -97,17 +90,37 @@
   - TX
 - - Utah
   - UT
-- - Virginia
-  - VA
-- - Virgin Islands
-  - VI
 - - Vermont
   - VT
+- - Virginia
+  - VA
 - - Washington
   - WA
-- - Wisconsin
-  - WI
 - - West Virginia
   - WV
+- - Wisconsin
+  - WI
 - - Wyoming
   - WY
+- - American Samoa
+  - AS
+- - Federated States of Micronesia
+  - FM
+- - Guam
+  - GU
+- - Marshall Islands
+  - MH
+- - Northern Mariana Islands
+  - MP
+- - Palau
+  - PW
+- - Puerto Rico
+  - PR
+- - Virgin Islands
+  - VI
+- - Armed Forces Americas (except Canada)
+  - AA
+- - Armed Forces Europe, Canada, Africa, or Middle East
+  - AE
+- - Armed Forces Pacific
+  - AP

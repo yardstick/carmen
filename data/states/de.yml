@@ -1,33 +1,33 @@
---- 
-- - Schleswig-Holstein
-  - "01"
-- - Hamburg
-  - "02"
-- - Lower Saxony
-  - "03"
-- - Bremen
-  - "04"
-- - Nrth Rhine Westfalia
-  - "05"
-- - Hessen
-  - "06"
-- - Rhineland Palatinate
-  - "07"
-- - Baden-Wurttemberg
-  - "08"
-- - Bavaria
-  - "09"
-- - Saarland
-  - "10"
+---
+- - Baden-Württemberg
+  - BW
+- - Bayern
+  - BY
 - - Berlin
-  - "11"
+  - BE
 - - Brandenburg
-  - "12"
-- - Mecklenburg-Vorpomm.
-  - "13"
-- - Saxony
-  - "14"
-- - Saxony-Anhalt
-  - "15"
-- - Thuringia
-  - "16"
+  - BR
+- - Bremen
+  - HB
+- - Hamburg
+  - HH
+- - Hessen
+  - HE
+- - Mecklenburg-Vorpommern
+  - MV
+- - Niedersachsen
+  - NI
+- - Nordrhein-Westfalen
+  - NW
+- - Rheinland-Pfalz
+  - RP
+- - Saarland
+  - SL
+- - Sachsen
+  - SN
+- - Sachsen-Anhalt
+  - ST
+- - Schleswig-Holstein
+  - SH
+- - Thüringen
+  - TH

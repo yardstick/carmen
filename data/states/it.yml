@@ -1,72 +1,72 @@
---- 
-- - Agriento
+---
+- - Agrigento
   - AG
 - - Alessandria
   - AL
 - - Ancona
   - AN
-- - Aosta
+- - Aosta / Aoste
   - AO
-- - Ascoli Piceno
-  - AP
-- - "L'Aquila"
-  - AQ
 - - Arezzo
   - AR
+- - Ascoli Piceno
+  - AP
 - - Asti
   - AT
 - - Avellino
   - AV
 - - Bari
   - BA
-- - Bergamo
-  - BG
-- - Biella
-  - BI
 - - Belluno
   - BL
 - - Benevento
   - BN
+- - Bergamo
+  - BG
+- - Biella
+  - BI
 - - Bologna
   - BO
-- - Brindisi
-  - BR
+- - Bolzano / Bolzen
+  - BZ
 - - Brescia
   - BS
-- - Bolzano
-  - BZ
+- - Brindisi
+  - BR
 - - Cagliari
   - CA
+- - Caltanisetta
+  - CL
 - - Campobasso
   - CB
 - - Caserta
   - CE
-- - Chieti
-  - CH
-- - Caltanisetta
-  - CL
-- - Cuneo
-  - CN
-- - Como
-  - CO
-- - Cremona
-  - CR
-- - Cosenza
-  - CS
 - - Catania
   - CT
 - - Catanzaro
   - CZ
+- - Chieti
+  - CH
+- - Como
+  - CO
+- - Cosenza
+  - CS
+- - Cremona
+  - CR
+- - Crotone
+  - KR
+- - Cuneo
+  - CN
 - - Enna
   - EN
-- - Forli/Cesana
-  - FC
 - - Ferrara
   - FE
+- - Firenze
+  - FI
 - - Foggia
   - FG
-- - Florence
-  - FI
+- - Forl
+  - FO
 - - Frosinone
   - FR
 - - Genova
@@ -79,35 +79,37 @@
   - IM
 - - Isernia
   - IS
-- - Crotone
-  - KR
-- - Lecco
-  - LC
+- - L'Aquila
+  - AQ
+- - La Spezia
+  - SP
+- - Latina
+  - LT
 - - Lecce
   - LE
+- - Lecco
+  - LC
 - - Livorno
   - LI
 - - Lodi
   - LO
-- - Latina
-  - LT
 - - Lucca
   - LU
 - - Macerata
   - MC
-- - Messina
-  - ME
-- - Milan
-  - MI
 - - Mantova
   - MN
-- - Modena
-  - MO
-- - Massa Carrara
+- - Massa-Carrara
   - MS
 - - Matera
   - MT
-- - Naples
+- - Messina
+  - ME
+- - Milano
+  - MI
+- - Modena
+  - MO
+- - Napoli
   - NA
 - - Novara
   - "NO"
@@ -115,93 +117,91 @@
   - NU
 - - Oristano
   - OR
-- - Palermo
-  - PA
-- - Piacenza
-  - PC
 - - Padova
   - PD
-- - Pescara
-  - PE
-- - Perugia
-  - PG
-- - Pisa
-  - PI
-- - Pordenone
-  - PN
-- - Prato
-  - PO
+- - Palermo
+  - PA
 - - Parma
   - PR
-- - Pistoia
-  - PT
-- - Pesaro-Urbino
-  - PU
 - - Pavia
   - PV
+- - Perugia
+  - PG
+- - Pesaro-Urbino
+  - PS
+- - Pescara
+  - PE
+- - Piacenza
+  - PC
+- - Pisa
+  - PI
+- - Pistoia
+  - PT
+- - Pordenone
+  - PN
 - - Potenza
   - PZ
-- - Ravenna
-  - RA
-- - Reggio Calabria
-  - RC
-- - Reggio Emilia
-  - RE
+- - Prato
+  - PO
 - - Ragusa
   - RG
+- - Ravenna
+  - RA
+- - Reggio di Calabria
+  - RC
+- - Reggio nell'Emilia
+  - RE
 - - Rieti
   - RI
-- - Rome
-  - RM
 - - Rimini
   - RN
+- - Roma
+  - RM
 - - Rovigo
   - RO
 - - Salerno
   - SA
-- - Siena
-  - SI
-- - Sondrio
-  - SO
-- - La Spezia
-  - SP
-- - Siracusa
-  - SR
 - - Sassari
   - SS
 - - Savona
   - SV
+- - Siena
+  - SI
+- - Siracusa
+  - SR
+- - Sondrio
+  - SO
 - - Taranto
   - TA
 - - Teramo
   - TE
-- - Trento
-  - TN
-- - Turin
+- - Terni
+  - TR
+- - Torino
   - TO
 - - Trapani
   - TP
-- - Terni
-  - TR
-- - Trieste
-  - TS
+- - Trento
+  - TN
 - - Treviso
   - TV
+- - Trieste
+  - TS
 - - Udine
   - UD
 - - Varese
   - VA
+- - Venezia
+  - VE
 - - Verbania
   - VB
 - - Vercelli
   - VC
-- - Venice
-  - VE
-- - Vicenza
-  - VI
 - - Verona
   - VR
-- - Viterbo
-  - VT
 - - Vibo Valentia
   - VV
+- - Vicenza
+  - VI
+- - Viterbo
+  - VT

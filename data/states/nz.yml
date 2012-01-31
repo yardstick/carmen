@@ -1,14 +1,14 @@
---- 
+---
 - - Auckland
-  - AKL
+  - AUK
 - - Bay of Plenty
   - BOP
 - - Canterbury
   - CAN
-- - "Hawke\xC2\xB4s Bay"
-  - HAB
+- - "Hawke's Bay"
+  - HKB
 - - Manawatu-Wanganui
-  - MAN
+  - MWT
 - - Northland
   - NTL
 - - Otago
@@ -16,10 +16,20 @@
 - - Southland
   - STL
 - - Taranaki
-  - TAR
+  - TKI
 - - Waikato
-  - WAI
-- - West Coast
-  - WEC
+  - WKO
 - - Wellington
-  - WLG
+  - WGN
+- - West Coast
+  - WTC
+- - Gisborne District
+  - GIS
+- - Marlborough District
+  - MBH
+- - Nelson City
+  - NSN
+- - Tasman District
+  - TAS
+- - Chatham Islands Territory
+  - CIT

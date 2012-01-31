@@ -1,79 +1,73 @@
---- 
-- - Andra Pradesh
-  - "01"
+# from http://en.wikipedia.org/wiki/ISO_3166-2:IN
+---
+- - Andhra Pradesh
+  - AP
 - - Arunachal Pradesh
-  - "02"
+  - AR
 - - Assam
-  - "03"
+  - AS
 - - Bihar
-  - "04"
+  - BR
+- - Chhattisgarh
+  - CT
 - - Goa
-  - "05"
+  - GA
 - - Gujarat
-  - "06"
+  - GJ
 - - Haryana
-  - "07"
+  - HR
 - - Himachal Pradesh
-  - "08"
-- - Jammu und Kashmir
-  - "09"
-- - Karnataka
-  - "10"
-- - Kerala
-  - "11"
-- - Madhya Pradesh
-  - "12"
-- - Maharashtra
-  - "13"
-- - Manipur
-  - "14"
-- - Megalaya
-  - "15"
-- - Mizoram
-  - "16"
-- - Nagaland
-  - "17"
-- - Orissa
-  - "18"
-- - Punjab
-  - "19"
-- - Rajasthan
-  - "20"
-- - Sikkim
-  - "21"
-- - Tamil Nadu
-  - "22"
-- - Tripura
-  - "23"
-- - Uttar Pradesh
-  - "24"
-- - West Bengal
-  - "25"
-- - Andaman und Nico.In.
-  - "26"
-- - Chandigarh
-  - "27"
-- - Dadra und Nagar Hav.
-  - "28"
-- - Daman und Diu
-  - "29"
-- - Delhi
-  - "30"
-- - Lakshadweep
-  - "31"
-- - Pondicherry
-  - "32"
-- - Chhaattisgarh
-  - "33"
+  - HP
+- - Jammu and Kashmir
+  - JK
 - - Jharkhand
-  - "34"
-- - Uttaranchal
-  - "35"
-- - ""
-  - A1
-- - ""
-  - A2
-- - ""
-  - A3
-- - ""
-  - A4
+  - JH
+- - Karnataka
+  - KA
+- - Kerala
+  - KL
+- - Madhya Pradesh
+  - MP
+- - Maharashtra
+  - MH
+- - Manipur
+  - MN
+- - Meghalaya
+  - ML
+- - Mizoram
+  - MZ
+- - Nagaland
+  - NL
+- - Orissa
+  - OR
+- - Punjab
+  - PB
+- - Rajasthan
+  - RJ
+- - Sikkim
+  - SK
+- - Tamil Nadu
+  - TN
+- - Tripura
+  - TR
+- - Uttarakhand
+  - UL
+- - Uttar Pradesh
+  - UP
+- - West Bengal
+  - WB
+- - Andaman and Nicobar Islands
+  - AN
+- - Chandigarh
+  - CH
+- - Dadra and Nagar Haveli
+  - DN
+- - Daman and Diu
+  - DD
+- - Delhi
+  - DL
+- - Lakshadweep
+  - LD
+- - Puducherry
+  - PY
+

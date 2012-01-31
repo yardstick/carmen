@@ -1,65 +1,65 @@
---- 
+---
 - - Aguascalientes
   - AGS
-- - Baja California
-  - BC
-- - Baja California S
+- - Baja California Norte
+  - BCN
+- - Baja California Sur
   - BCS
-- - Chihuahua
-  - CHI
-- - Chiapas
-  - CHS
 - - Campeche
-  - CMP
+  - CAM
+- - Chiapas
+  - CHIS
+- - Chihuahua
+  - CHIH
 - - Coahuila
-  - COA
+  - COAH
 - - Colima
   - COL
 - - Distrito Federal
   - DF
 - - Durango
   - DGO
-- - Guerrero
-  - GRO
 - - Guanajuato
   - GTO
+- - Guerrero
+  - GRO
 - - Hidalgo
   - HGO
 - - Jalisco
   - JAL
-- - Michoacan
-  - MCH
-- - Estado de Mexico
+- - México (Estado de)
   - MEX
+- - Michoacán
+  - MICH
 - - Morelos
   - MOR
 - - Nayarit
   - NAY
-- - Nuevo Leon
+- - Nuevo León
   - NL
 - - Oaxaca
   - OAX
 - - Puebla
   - PUE
-- - Quintana Roo
-  - QR
-- - Queretaro
+- - Querétaro
   - QRO
+- - Quintana Roo
+  - QROO
+- - San Luis Potosí
+  - SLP
 - - Sinaloa
   - SIN
-- - San Luis Potosi
-  - SLP
 - - Sonora
   - SON
 - - Tabasco
   - TAB
-- - Tlaxcala
-  - TLX
 - - Tamaulipas
-  - TMS
+  - TAMPS
+- - Tlaxcala
+  - TLAX
 - - Veracruz
   - VER
-- - Yucatan
+- - Yucatán
   - YUC
 - - Zacatecas
   - ZAC
