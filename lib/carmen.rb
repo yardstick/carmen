@@ -5,6 +5,9 @@ rescue LoadError
   require 'fileutils' # ftools is now fileutils in Ruby 1.9
 end
 
+require 'i18n'
+I18n.load_path += Dir["#{File.dirname(__FILE__)}/locales/*.yml"]
+
 # Fix to autoload in Rails 3
 if defined?(Rails)
   if Rails::VERSION::MAJOR > 2
@@ -84,18 +87,18 @@ module Carmen
   # Returns an array of all country codes
   #  Carmen::country_codes => ['AF', 'AX', 'AL', ... ]
   def self.country_codes
-    countries.map {|c| c[1] }
+    countries.map { |c| c[1] }
   end
 
   # Returns an array of all country names, optionally using the specified locale.
   #  Carmen::country_names => ['Afghanistan', 'Aland Islands', 'Albania', ... ]
   #  Carmen::country_names(:locale => :de) => ['Afghanistan', 'Åland', 'Albanien', ... ]
   def self.country_names(options={})
-    countries(options).map {|c| c[0] }
+    countries(options).map { |c| c[0] }
   end
 
   # Returns the state name corresponding to the supplied state code within the default country
-  #  Carmen::state_code('New Hampshire') => 'NH'
+  #  Carmen::state_name('NH') => 'New Hampshire'
   def self.state_name(state_code, country_code = Carmen.default_country, options={})
     search_collection(self.states(country_code, options), state_code, 1, 0)
   end
@@ -109,13 +112,13 @@ module Carmen
   # Returns an array of state names within the default code
   #  Carmen::state_names('US') => ['Alabama', 'Arkansas', ... ]
   def self.state_names(country_code = Carmen.default_country, options={})
-    self.states(country_code, options).map{|name, code| name}
+    self.states(country_code, options).map { |name, code| name }
   end
 
   # Returns an array of state codes within the specified country code
   #   Carmen::state_codes('US') => ['AL', 'AR', ... ]
   def self.state_codes(country_code = Carmen.default_country)
-    self.states(country_code).map{|name, code| code}
+    self.states(country_code).map { |name, code| code }
   end
 
   # Returns an array structure of state names and codes within the specified country code, or within the default country
@@ -129,9 +132,11 @@ module Carmen
     results = search_collection(@states, country_code, 0, 1)
 
     if excluded_states[country_code]
-        results.reject { |s| excluded_states[country_code].include?(s[1]) }
+      results.reject { |s| excluded_states[country_code].include?(s[1]) }
     else
-        results
+      results
+    end.map do |name, code|
+      [I18n.t("carmen.provinces.#{country_code}.#{code}", :default => name), code]
     end
   end
 

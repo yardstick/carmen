@@ -70,7 +70,7 @@ class TestCarmen < Test::Unit::TestCase
   def test_state_code
     assert_equal 'Arizona', Carmen.state_name('AZ')
     assert_equal 'Prince Edward Island', Carmen.state_name('PE', 'CA')
-    # NO gets interpretted as false by YAML. 
+    # NO gets interpretted as false by YAML.
     assert_equal 'Rogaland', Carmen.state_name('RO', 'NO')
   end
 
@@ -155,5 +155,13 @@ class TestCarmen < Test::Unit::TestCase
   def test_special_characters_dont_rails_an_exception
     assert_equal(nil, Carmen::state_code('alabama\\'))
     assert_nil(Carmen::country_code('???'))
+  end
+
+  def test_translate_province_names
+    I18n.with_locale('fr') do
+      assert_equal('Texas', Carmen.state_name('TX', 'US'))
+      assert_equal('Alberta', Carmen.state_name('AB', 'CA'))
+      assert_equal('Île-du-Prince-Édouard', Carmen.state_name('PE', 'CA'))
+    end
   end
 end
