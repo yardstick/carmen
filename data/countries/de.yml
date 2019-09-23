@@ -113,13 +113,13 @@
   - CS
 - - Kuba
   - CU
-- - Kap Verde
+- - Cabo Verde
   - CV
 - - Weihnachtsinsel
   - CX
 - - Zypern
   - CY
-- - Tschechische Republik
+- - Tschechien
   - CZ
 - - Deutschland
   - DE
@@ -147,6 +147,8 @@
   - EH
 - - Eritrea
   - ER
+- - Eswatini
+  - SZ
 - - Spanien
   - ES
 - - "Äthiopien"
@@ -307,8 +309,6 @@
   - MG
 - - Marshallinseln
   - MH
-- - Mazedonien, ehem. jugoslawische Republik
-  - MK
 - - Mali
   - ML
 - - Myanmar (Burma)
@@ -353,6 +353,8 @@
   - NI
 - - Niederlande
   - NL
+- - Nordmakedonien
+  - MK
 - - Norwegen
   - 'NO'
 - - Nepal
@@ -445,8 +447,6 @@
   - SV
 - - Syrien, Arabische Republik
   - SY
-- - Eswatini
-  - SZ
 - - "Tristan da Cunha (verwaltet von St. Helena)"
   - TA
 - - Turks- und Caicosinseln
@@ -493,7 +493,7 @@
   - UY
 - - Usbekistan
   - UZ
-- - Vatikanstadt
+- - Heiliger Stuhl
   - VA
 - - St. Vincent und die Grenadinen
   - VC

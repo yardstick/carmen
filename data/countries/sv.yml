@@ -31,7 +31,7 @@
   - AU
 - - Azerbajdzjan
   - AZ
-- - BQ
+- - Bonaire, Sint Eustatius och Saba
   - BQ
 - - Bahamas
   - BS
@@ -219,7 +219,7 @@
   - CA
 - - Kanarieöarna
   - IC
-- - Kap Verde
+- - Cabo Verde
   - CV
 - - Kazakstan
   - KZ
@@ -267,8 +267,6 @@
   - MO
 - - Madagaskar
   - MG
-- - Makedonien
-  - MK
 - - Malawi
   - MW
 - - Malaysia
@@ -335,6 +333,8 @@
   - NF
 - - Norge
   - "NO"
+- - Norra Makedonien
+  - MK
 - - Nya Kaledonien
   - NC
 - - Nya Zeeland
@@ -387,7 +387,7 @@
   - PM
 - - S:t Vincent och Grenadinerna
   - VC
-- - SX
+- - Sint Maarten (holländsk del)
   - SX
 - - Salomonöarna
   - SB
@@ -421,7 +421,7 @@
   - ES
 - - Sri Lanka
   - LK
-- - Storbritannien
+- - Förenade konungariket Storbritannien och Nordirland
   - GB
 - - Sudan
   - SD
@@ -493,7 +493,7 @@
   - UZ
 - - Vanuatu
   - VU
-- - Vatikanstaten
+- - Heliga se
   - VA
 - - Venezuela
   - VE

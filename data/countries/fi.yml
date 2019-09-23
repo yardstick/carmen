@@ -199,7 +199,7 @@
   - CA
 - - Kanariansaaret
   - IC
-- - Kap Verde
+- - Cabo Verde
   - CV
 - - Kazakstan
   - KZ
@@ -261,8 +261,6 @@
   - MO
 - - Madagaskar
   - MG
-- - Makedonia
-  - MK
 - - Malawi
   - MW
 - - Malediivit
@@ -345,6 +343,8 @@
   - MP
 - - Pitcairn
   - PN
+- - Pohjois-Makedonia
+  - MK
 - - Portugali
   - PT
 - - Puerto Rico
@@ -481,7 +481,7 @@
   - BY
 - - Vanuatu
   - VU
-- - Vatikaanivaltio
+- - pyhä Meri
   - VA
 - - Venezuela
   - VE
@@ -493,7 +493,7 @@
   - EE
 - - Wallis ja Futunasaaret
   - WF
-- - Yhdistynyt kuningaskunta
+- - Ison-Britannian ja Pohjois-Irlannin yhdistynyt kuningaskunta
   - GB
 - - Yhdistynyt kuningaskunta
   - UK

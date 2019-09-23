@@ -55,7 +55,7 @@
   - BT
 - - Bolivia, Plurinational State of
   - BO
-- - Bonaire, Saba, St. Eustatius
+- - Bonaire, Sint Eustatius and Saba
   - BQ
 - - Bosnia and Herzegovina
   - BA
@@ -81,7 +81,7 @@
   - CM
 - - Canada
   - CA
-- - Cape Verde
+- - Cabo Verde
   - CV
 - - Cayman Islands
   - KY
@@ -121,7 +121,7 @@
   - CW
 - - Cyprus
   - CY
-- - Czech Republic
+- - Czechia
   - CZ
 - - Denmark
   - DK
@@ -143,6 +143,8 @@
   - ER
 - - Estonia
   - EE
+- - Eswatini
+  - SZ
 - - Ethiopia
   - ET
 - - Falkland Islands (Malvinas)
@@ -197,11 +199,11 @@
   - HT
 - - Heard Island and McDonald Islands
   - HM
-- - Holy See (Vatican City State)
+- - Holy See
   - VA
 - - Honduras
   - HN
-- - Hong Kong SAR, China
+- - Hong Kong
   - HK
 - - Hungary
   - HU
@@ -265,10 +267,8 @@
   - LT
 - - Luxembourg
   - LU
-- - Macao SAR, China
+- - Macao
   - MO
-- - Macedonia, Republic Of
-  - MK
 - - Madagascar
   - MG
 - - Malawi
@@ -335,6 +335,8 @@
   - NU
 - - Norfolk Island
   - NF
+- - North Macedonia
+  - MK
 - - Northern Mariana Islands
   - MP
 - - Norway
@@ -407,7 +409,7 @@
   - SL
 - - Singapore
   - SG
-- - Saint Maarten
+- - Sint Maarten (Dutch part)
   - SX
 - - Slovakia
   - SK
@@ -433,8 +435,6 @@
   - SR
 - - Svalbard and Jan Mayen
   - SJ
-- - Eswatini
-  - SZ
 - - Sweden
   - SE
 - - Switzerland
@@ -475,7 +475,7 @@
   - UA
 - - United Arab Emirates
   - AE
-- - United Kingdom
+- - United Kingdom of Great Britain and Northern Ireland
   - GB
 - - United States
   - US

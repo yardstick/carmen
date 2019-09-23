@@ -219,7 +219,7 @@
   - JE
 - - "Jordanië"
   - JO
-- - "Kaapverdië"
+- - Cabo Verde
   - CV
 - - Kameroen
   - CM
@@ -255,8 +255,6 @@
   - LU
 - - Macao
   - MO
-- - "Macedonië"
-  - MK
 - - Madagaskar
   - MG
 - - Malawi
@@ -323,6 +321,8 @@
   - NU
 - - Noord-Korea
   - KP
+- - Noord Macedonië
+  - MK
 - - Noordelijke Marianeneilanden
   - MP
 - - Noorwegen
@@ -467,11 +467,11 @@
   - UY
 - - Vanuatu
   - VU
-- - Vaticaanstad
+- - Heilige Stoel
   - VA
 - - Venezuela
   - VE
-- - Verenigd Koninkrijk
+- - Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland
   - GB
 - - Verenigde Arabische Emiraten
   - AE
