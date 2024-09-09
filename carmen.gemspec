@@ -63,7 +63,7 @@ Gem::Specification.new do |s|
   s.summary = %q{A collection of geographic country and state names for Ruby}
   s.specification_version = 3
 
-  s.add_dependency 'i18n', '~> 0.7.0'
+  s.add_dependency 'i18n', '~> 0.7'
 
   s.add_development_dependency(%q<jeweler>, ["= 1.6.2"])
   s.add_development_dependency(%q<rails>, ["~> 2.0"])
