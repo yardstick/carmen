@@ -3,6 +3,9 @@
 # Instead, edit Jeweler::Tasks in Rakefile, and run 'rake gemspec'
 # -*- encoding: utf-8 -*-
 
+$LOAD_PATH.unshift File.expand_path("../lib", __FILE__)
+require "carmen/version"
+
 Gem::Specification.new do |s|
   s.name = %q{carmen}
   s.version = Carmen::VERSION
