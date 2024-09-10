@@ -5,7 +5,7 @@
 
 Gem::Specification.new do |s|
   s.name = %q{carmen}
-  s.version = '0.3.0'
+  s.version = Carmen::VERSION
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0")
   s.authors = ["Jim Benton"]
